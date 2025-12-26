@@ -5,6 +5,8 @@ Este projeto demonstra o poder de **Agentes de IA** trabalhando em conjunto para
 ## Metodologia e Orquestração de Agentes de IA
 
 A construção desta plataforma fundamentou-se na orquestração de múltiplos agentes de inteligência artificial, cada qual com responsabilidades específicas e complementares. A partir da extração inicial dos dados do ranking Valor 1000, o sistema acionou o **EnrichmentAgent**, encarregado de localizar dados cadastrais críticos como CNPJs, domínios oficiais e perfis corporativos no LinkedIn. Simultaneamente, o **StructureAgent** atuou na análise de estruturas societárias, identificando relações de controle entre holdings e subsidiárias que muitas vezes não são evidentes em dados superficiais. Por fim, o **ProductAgent** realizou a categorização semântica de ofertas, permitindo que produtos descritos de formas distintas fossem agrupados em categorias de mercado padronizadas, facilitando análises de similaridade e concorrência.
+o **ICPAgent** atuou na analise do ICP da empresa e **URLEnrichmentAgent** faz uma analise SWOT com base nas informacoes da URL oficial da empresa
+
 
 ## Modelagem e Estrutura do Graph Database
 
@@ -28,7 +30,9 @@ A entrega final deste desafio compreende um conjunto de ativos técnicos que per
 | Arquivo | Descrição | Finalidade |
 | --- | --- | --- |
 | **graph_database_export.cypher** | Script de exportação para Graph Database. | Popular bancos de dados como Neo4j com nós e relações. |
-| **enriched_companies_top50.json** | Base de dados enriquecida das top 50 empresas. | Fornecer dados estruturados para análises externas. |
+| **enriched_companies_top30.json** | Base de dados enriquecida das top 50 empresas. | Fornecer dados estruturados para análises externas. |
 | **corporate_graph_sample.png** | Visualização gráfica da rede de conexões. | Demonstrar visualmente a complexidade do ecossistema. |
 | **ai_agents.py** | Código fonte dos agentes de inteligência. | Permitir a manutenção e evolução da lógica de descoberta. |
+| **ai_agents_market.py** | Código fonte dos agentes de inteligência. | Permitir a manutenção e evolução da lógica de descoberta. |
 | **orchestrator.py** | Sistema de gestão e execução dos agentes. | Orquestrar o fluxo de trabalho entre os diferentes agentes. |
+| **orchestrator_market.py** | Sistema de gestão e execução dos agentes. | Orquestrar o fluxo de trabalho entre os diferentes agentes. |

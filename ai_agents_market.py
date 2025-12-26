@@ -24,7 +24,8 @@ class URLEnrichmentAgent(CorporateAgent):
 
     def process(self, website):
         prompt = f"""
-        Você é um agente de inteligência corporativa. Sua tarefa é encontrar informações básicas sobre a empresa brasileira na pagina: {website}.
+        Você é um agente de inteligência corporativa. Sua tarefa é encontrar informações básicas sobre a empresa na pagina: {website}.
+        Caso falte informação para fazer analise SWOT, no item que nao tem informacao, complete o item com informações que sejam mais comuns nesse tipo de mercado.
         
         Retorne APENAS um JSON com os seguintes campos:
         - Strenghts: descricao dos pontos fortes da empresa
