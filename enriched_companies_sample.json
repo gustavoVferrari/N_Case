@@ -1,0 +1,416 @@
+[
+    {
+        "rank_2024": "1",
+        "rank_2023": "1",
+        "name": "Petróleo Brasileiro S.A. Petrobras",
+        "headquarters": "RJ",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "490.829,0",
+        "cnpj": "33.000.167/0001-01",
+        "website": "https://www.petrobras.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/petrobras/",
+        "description": "A Petróleo Brasileiro S.A. - Petrobras é uma empresa estatal brasileira de energia, atuando principalmente na exploração, produção, refino, comercialização e transporte de petróleo, gás natural e derivados.",
+        "parent_company": null,
+        "subsidiaries": [
+            "BR Distribuidora",
+            "Petrobras Distribuidora",
+            "Petrobras Gás",
+            "Petrobras Biocombustíveis",
+            "Petrobras Transporte",
+            "Petrobras Lubrificantes",
+            "Transpetro",
+            "Petrobras Agropecuária"
+        ],
+        "brands": [
+            "Gasolina Petrobras",
+            "Diesel Petrobras",
+            "Óleo Lubrificante Petrobras",
+            "Gasolina Ipiranga (através da BR Distribuidora)"
+        ],
+        "economic_group": "Grupo Petrobras",
+        "main_products": [
+            "Exploração de petróleo",
+            "Produção de petróleo",
+            "Refino de petróleo",
+            "Comercialização de derivados de petróleo",
+            "Transporte de petróleo",
+            "Exploração de gás natural",
+            "Produção de gás natural",
+            "Comercialização de gás natural",
+            "Transporte de gás natural",
+            "Distribuição de combustíveis"
+        ],
+        "categories": [
+            "Exploração e Produção de Petróleo e Gás",
+            "Refino de Petróleo",
+            "Comercialização de Combustíveis",
+            "Transporte e Logística de Hidrocarbonetos",
+            "Distribuição de Energia"
+        ],
+        "industry_segment": "Indústria de Óleo e Gás"
+    },
+    {
+        "rank_2024": "2",
+        "rank_2023": "2",
+        "name": "JBS S.A.",
+        "headquarters": "SP",
+        "sector": "Alimentos e Bebidas",
+        "revenue_brl_million": "416.952,0",
+        "cnpj": "16.670.085/0001-55",
+        "website": "https://jbs.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/jbs/",
+        "description": "JBS S.A. é uma empresa brasileira líder global no setor de alimentos, especializada em processamento de carnes bovina, suína e de aves, além de atuar em outros segmentos alimentícios e produtos derivados.",
+        "parent_company": null,
+        "subsidiaries": [
+            "JBS USA Holdings, Inc.",
+            "Pilgrim's Pride Corporation",
+            "Seara Alimentos",
+            "Swift",
+            "Vivera",
+            "JBS Australia",
+            "JBS Foods Canada",
+            "JBS Foods International"
+        ],
+        "brands": [
+            "Seara",
+            "Swift",
+            "Friboi",
+            "Vigor",
+            "Pilgrim's",
+            "Millefrios"
+        ],
+        "economic_group": "J&F Investimentos",
+        "main_products": [
+            "Carne bovina in natura",
+            "Carne suína in natura",
+            "Carne de aves in natura",
+            "Produtos processados de carne (embutidos, cortes especiais)",
+            "Produtos derivados de carne (seviscerados, subprodutos)",
+            "Alimentos industrializados relacionados",
+            "Produtos alimentícios variados"
+        ],
+        "categories": [
+            "Processamento de carnes",
+            "Produção de alimentos",
+            "Produtos cárneos processados",
+            "Indústria alimentícia",
+            "Bovinos, Suínos e Aves"
+        ],
+        "industry_segment": "Indústria de processamento e produção de carnes e alimentos derivados"
+    },
+    {
+        "rank_2024": "3",
+        "rank_2023": "3",
+        "name": "Raizen S.A.",
+        "headquarters": "RJ",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "255.268,5",
+        "cnpj": "08.428.646/0001-60",
+        "website": "https://www.raizen.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/raizen/",
+        "description": "A Raízen S.A. é uma empresa brasileira de energia que atua na produção de etanol, açúcar, e comercialização de combustíveis, sendo uma das maiores do setor no país.",
+        "parent_company": "Shell and Cosan",
+        "subsidiaries": [
+            "Raízen Combustíveis",
+            "Raízen Energia",
+            "Raízen Carbono Neutro"
+        ],
+        "brands": [
+            "Shell",
+            "Raízen",
+            "RenovaBio"
+        ],
+        "economic_group": "Raízen Group",
+        "main_products": [
+            "Etanol",
+            "Açúcar",
+            "Combustíveis (gasolina, diesel)",
+            "Comercialização de combustíveis"
+        ],
+        "categories": [
+            "Bioenergia",
+            "Agronegócio",
+            "Combustíveis renováveis",
+            "Comercialização de combustíveis fósseis"
+        ],
+        "industry_segment": "Produção e comercialização de biocombustíveis e combustíveis fósseis"
+    },
+    {
+        "rank_2024": "4",
+        "rank_2023": "4",
+        "name": "Vale S.A.",
+        "headquarters": "RJ",
+        "sector": "Mineração",
+        "revenue_brl_million": "206.005,0",
+        "cnpj": "33.592.510/0001-54",
+        "website": "https://www.vale.com",
+        "linkedin_url": "https://www.linkedin.com/company/vale/",
+        "description": "A Vale S.A. é uma das maiores empresas de mineração do mundo, atuando na extração e comercialização de minério de ferro, níquel, cobre e outros minerais, além de atuar em logística e energia.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Vale Fertilizantes",
+            "Vale Canada Limited",
+            "Nacala Logistics Corridor",
+            "Vale International S.A.",
+            "Mineradora Rio do Norte S.A."
+        ],
+        "brands": [
+            "Vale"
+        ],
+        "economic_group": "Vale S.A.",
+        "main_products": [
+            "Minério de ferro",
+            "Níquel",
+            "Cobre",
+            "Outros minerais",
+            "Serviços de logística",
+            "Serviços de energia"
+        ],
+        "categories": [
+            "Mineração",
+            "Metais e Mineração",
+            "Logística",
+            "Energia"
+        ],
+        "industry_segment": "Mineração e Commodities"
+    },
+    {
+        "rank_2024": "5",
+        "rank_2023": "5",
+        "name": "Vibra Energia S.A.",
+        "headquarters": "RJ",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "172.272,0",
+        "cnpj": "49.291.082/0001-60",
+        "website": "https://www.vibraenergia.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/vibraenergia",
+        "description": "A Vibra Energia S.A. atua no setor de distribuição e comercialização de combustíveis, sendo uma das maiores empresas do segmento no Brasil, operando marcas como Ipiranga e UltraService.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Raízen Combustíveis S.A.",
+            "Raízen Energia S.A.",
+            "Raízen Comercial S.A.",
+            "Raízen Distribuidora S.A."
+        ],
+        "brands": [
+            "Shell",
+            "Raízen"
+        ],
+        "economic_group": "Raízen",
+        "main_products": [
+            "Combustíveis derivados de petróleo",
+            "Gasolina",
+            "Etanol",
+            "Diesel",
+            "Lubrificantes automotivos",
+            "Serviços de abastecimento em postos de combustíveis",
+            "Programas de fidelidade (ex: cartões de benefícios)"
+        ],
+        "categories": [
+            "Distribuição de Combustíveis",
+            "Comercialização de Combustíveis",
+            "Serviços Automotivos",
+            "Energias Renováveis (etanol)"
+        ],
+        "industry_segment": "Distribuição e Comercialização de Combustíveis"
+    },
+    {
+        "rank_2024": "6",
+        "rank_2023": "6",
+        "name": "Cosan S.A.",
+        "headquarters": "SP",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "169.273,0",
+        "cnpj": "71.477.271/0001-21",
+        "website": "https://www.cosan.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/cosan-s-a-/",
+        "description": "A Cosan S.A. é uma empresa brasileira atuante nos setores de energia, infraestrutura e agroindústria, com foco em combustíveis, logística e produção de açúcar e etanol.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Raízen",
+            "Moove",
+            "Radar",
+            "Rumo Logística"
+        ],
+        "brands": [
+            "Raízen",
+            "Shell (no Brasil, por meio da joint venture Raízen)",
+            "Moove"
+        ],
+        "economic_group": "Cosan Group",
+        "main_products": [
+            "combustíveis",
+            "logística",
+            "produção de açúcar",
+            "produção de etanol"
+        ],
+        "categories": [
+            "Energia",
+            "Infraestrutura",
+            "Agroindústria",
+            "Logística e Transporte",
+            "Biocombustíveis",
+            "Agronegócio"
+        ],
+        "industry_segment": "Energia renovável e agroindustrial"
+    },
+    {
+        "rank_2024": "7",
+        "rank_2023": "7",
+        "name": "Marfrig Global Foods S.A.",
+        "headquarters": "SP",
+        "sector": "Alimentos e Bebidas",
+        "revenue_brl_million": "148.861,0",
+        "cnpj": "02.916.265/0001-60",
+        "website": "https://www.marfrig.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/marfrig-global-foods/",
+        "description": "Marfrig Global Foods S.A. é uma das maiores empresas de alimentos do mundo, especializada na produção de carne bovina, além de produtos derivados e outros alimentos relacionados.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Marfrig Alimentos S.A.",
+            "Seara Alimentos S.A.",
+            "Masa Alimentos",
+            "Marfrig Global Foods Lux Coop S.C.A."
+        ],
+        "brands": [
+            "Seara",
+            "Paty",
+            "Delícia",
+            "Big Frango"
+        ],
+        "economic_group": "Marfrig Group",
+        "main_products": [
+            "carne bovina in natura",
+            "carne bovina processada",
+            "produtos derivados de carne bovina",
+            "produtos alimentícios relacionados"
+        ],
+        "categories": [
+            "Proteínas Animais",
+            "Alimentos Processados",
+            "Carne e Produtos Cárneos",
+            "Indústria Alimentícia"
+        ],
+        "industry_segment": "Produção e Processamento de Carne Bovina"
+    },
+    {
+        "rank_2024": "8",
+        "rank_2023": "8",
+        "name": "Ultrapar Participações S.A.",
+        "headquarters": "SP",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "133.498,9",
+        "cnpj": "47.508.411/0001-29",
+        "website": "https://www.ultra.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/ultrapar-participacoes-s-a-",
+        "description": "Ultrapar Participações S.A. é uma empresa brasileira que atua em segmentos como distribuidora de combustíveis (Ipiranga), especialidades químicas (Oxiteno), armazenagem de produtos químicos (Ultracargo) e gás liquefeito de petróleo (Ultragaz).",
+        "parent_company": null,
+        "subsidiaries": [
+            "Ipiranga",
+            "Ultragaz",
+            "Extrafarma",
+            "Oxiteno"
+        ],
+        "brands": [
+            "Ipiranga",
+            "Ultragaz",
+            "Extrafarma",
+            "Ultracargo",
+            "Oxiteno"
+        ],
+        "economic_group": "Ultrapar Participações S.A.",
+        "main_products": [
+            "Distribuição de combustíveis",
+            "Especialidades químicas",
+            "Armazenagem de produtos químicos",
+            "Gás liquefeito de petróleo (GLP)"
+        ],
+        "categories": [
+            "Energia e Combustíveis",
+            "Química Especializada",
+            "Armazenagem e Logística de Produtos Químicos",
+            "Gás e Energia"
+        ],
+        "industry_segment": "Distribuição de Combustíveis, Química Especializada e Logística de Produtos Químicos"
+    },
+    {
+        "rank_2024": "9",
+        "rank_2023": "10",
+        "name": "Atacadão S.A.",
+        "headquarters": "SP",
+        "sector": "Comércio Varejista",
+        "revenue_brl_million": "115.636,0",
+        "cnpj": "67.113.188/0001-25",
+        "website": "https://www.atacadao.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/atacadao",
+        "description": "Atacadão S.A. é uma empresa brasileira do setor de varejo, especializada em atacado de autosserviço, oferecendo uma ampla variedade de produtos para pequenos comerciantes, profissionais autônomos e consumidores finais.",
+        "parent_company": "Grupo Carrefour Brasil",
+        "subsidiaries": [],
+        "brands": [
+            "Atacadão"
+        ],
+        "economic_group": "Carrefour",
+        "main_products": [
+            "alimentos embalados",
+            "bebidas",
+            "produtos de limpeza",
+            "produtos de higiene pessoal",
+            "utilidades domésticas",
+            "perecíveis (frutas, verduras, carnes)",
+            "artigos para escritório",
+            "material de papelaria",
+            "produtos para pequenos comerciantes",
+            "suprimentos para profissionais autônomos"
+        ],
+        "categories": [
+            "varejo atacadista",
+            "varejo de autosserviço",
+            "alimentos e bebidas",
+            "produtos de limpeza e higiene",
+            "utilidades domésticas",
+            "suprimentos comerciais"
+        ],
+        "industry_segment": "varejo atacadista de autosserviço"
+    },
+    {
+        "rank_2024": "10",
+        "rank_2023": "9",
+        "name": "Cargill Alimentos Ltda.",
+        "headquarters": "SP",
+        "sector": "Agronegócio",
+        "revenue_brl_million": "109.188,2",
+        "cnpj": "12.423.220/0001-08",
+        "website": "https://www.cargill.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/cargill/",
+        "description": "A Cargill Alimentos Ltda. é uma empresa brasileira que atua no setor agroindustrial, focada na produção, comercialização e distribuição de alimentos, ingredientes e soluções para os mercados agrícola, alimentício e industrial.",
+        "parent_company": "Cargill, Incorporated",
+        "subsidiaries": [],
+        "brands": [
+            "Cargill",
+            "NatureWorks",
+            "EWOS",
+            "Provimi",
+            "Jovial",
+            "Tradin Organic"
+        ],
+        "economic_group": "Cargill",
+        "main_products": [
+            "grãos e oleaginosas",
+            "ingredientes alimentícios",
+            "rações para animais",
+            "óleos e gorduras comestíveis",
+            "proteínas vegetais",
+            "soluções para indústria alimentícia",
+            "comercialização agrícola",
+            "distribuição de alimentos"
+        ],
+        "categories": [
+            "Agricultura e Agroindústria",
+            "Processamento de Alimentos",
+            "Comercialização e Distribuição",
+            "Ingredientes e Soluções para Alimentação",
+            "Nutrição Animal"
+        ],
+        "industry_segment": "Agroindústria e Alimentos Processados"
+    }
+]

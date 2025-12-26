@@ -1,0 +1,562 @@
+[
+    {
+        "website": "https://www.petrobras.com.br",
+        "name": "Petróleo Brasileiro S.A. Petrobras",
+        "Strenghts": "A Petrobras é uma das maiores empresas de energia do Brasil e da América Latina, com forte atuação na exploração, produção, refino, distribuição e comercialização de petróleo, gás natural e derivados. A empresa possui tecnologia avançada e capacidade de exploração em águas profundas, além de integração vertical e uma sólida estrutura operacional e financeira.",
+        "Weaknesses": "Dependência significativa do mercado interno e da regulação governamental, além da exposição a flutuações nos preços internacionais do petróleo. A empresa também enfrenta desafios relacionados à gestão e à burocracia, que podem impactar sua eficiência e competitividade.",
+        "Opportunities": "Investimento em energias renováveis e tecnologias sustentáveis, expansão no mercado internacional, e desenvolvimento de novos campos de exploração em águas profundas. O aumento da demanda por energia e a transição energética também representam oportunidades para diversificação e crescimento.",
+        "Threats": "Volatilidade do mercado global de petróleo, mudanças regulatórias e políticas governamentais, concorrência crescente no setor energético e riscos ambientais associados à exploração e produção. Além disso, a instabilidade econômica e as pressões por sustentabilidade podem afetar os negócios.",
+        "ICP": [
+            "Empresas de energia e utilities",
+            "Indústrias petroquímicas",
+            "Setor de transporte e logística",
+            "Governos e entes reguladores",
+            "Distribuidores e revendedores de combustíveis",
+            "Setor naval e offshore",
+            "Empresas de engenharia e construção",
+            "Consumidores industriais de derivados de petróleo",
+            "Investidores e stakeholders do mercado de energia"
+        ]
+    },
+    {
+        "website": "https://jbs.com.br",
+        "name": "JBS S.A.",
+        "Strenghts": "A JBS é uma das maiores empresas do setor de alimentos do mundo, com forte presença global e uma ampla gama de produtos que abrangem carnes bovina, suína e de frango. Possui capacidade robusta de produção e distribuição, além de tecnologia avançada e certificações internacionais que garantem qualidade e segurança alimentar.",
+        "Weaknesses": "A empresa enfrenta desafios relacionados à dependência significativa do setor de carnes, o que pode expô-la a riscos regulatórios e ambientais. Além disso, episódios anteriores de crises de imagem podem afetar a percepção do público e investidores.",
+        "Opportunities": "Há oportunidades de expansão em mercados internacionais, especialmente com o crescimento da demanda por proteínas animais. A empresa pode investir em inovação e sustentabilidade para atender às tendências de consumo consciente e diversificação de produtos.",
+        "Threats": "A JBS está sujeita a ameaças como variações nos preços das commodities, mudanças regulatórias rigorosas, barreiras comerciais e o impacto de questões ambientais e sociais relacionadas à produção de carne, que podem afetar sua operação e reputação.",
+        "ICP": [
+            "atacadistas e distribuidores de alimentos",
+            "supermercados e redes de varejo alimentício",
+            "indústrias de alimentos processados",
+            "restaurantes, hotéis e serviços de alimentação institucional",
+            "exportadores e importadores de proteína animal",
+            "consumidores finais interesados em carnes bovina, suína e de aves",
+            "indústrias farmacêuticas e de cosméticos (para subprodutos específicos)",
+            "segmento de serviços logísticos e cadeias de frio"
+        ]
+    },
+    {
+        "website": "https://www.raizen.com.br",
+        "name": "Raizen S.A.",
+        "Strenghts": "A Raízen é uma das maiores empresas do setor de energia no Brasil, com forte atuação em produção de açúcar, etanol e bioenergia, além de ampla rede de distribuição de combustíveis. A empresa apresenta inovação contínua em sustentabilidade e eficiência energética, combinando tradição e tecnologia para consolidar sua presença no mercado.",
+        "Weaknesses": null,
+        "Opportunities": "A expansão do mercado de energias renováveis e a crescente demanda por combustíveis mais limpos oferecem oportunidades significativas para a Raízen ampliar sua participação no setor de bioenergia e desenvolver novas soluções sustentáveis. Parcerias estratégicas e investimento em tecnologias verdes também podem impulsionar o crescimento.",
+        "Threats": "A Raízen enfrenta ameaças relacionadas à volatilidade dos preços de commodities, mudanças em políticas públicas e regulações ambientais. Além disso, a concorrência acirrada no mercado de energia e combustíveis e impactos econômicos globais podem afetar seu desempenho.",
+        "ICP": [
+            "Grandes Indústrias",
+            "Distribuidores de Combustíveis",
+            "Concessionárias de Transportes",
+            "Agronegócio",
+            "Varejistas de Combustíveis",
+            "Consumidores Residenciais",
+            "Setor Automotivo",
+            "Empresas de Transporte e Logística",
+            "Geradores de Energia",
+            "Setor Comercial"
+        ]
+    },
+    {
+        "website": "https://www.vale.com",
+        "name": "Vale S.A.",
+        "Strenghts": "A Vale é uma das maiores mineradoras do mundo, com forte presença global e vasta experiência em mineração e logística. Possui recursos naturais abundantes, tecnologia avançada e uma sólida rede de operações integradas, o que garante liderança no mercado de minério de ferro, níquel e outros minerais.",
+        "Weaknesses": null,
+        "Opportunities": "A empresa pode expandir sua atuação em mercados internacionais, investir em tecnologias sustentáveis e diversificar seu portfólio de produtos. Além disso, há oportunidades em inovação para minimizar impactos ambientais e atender à crescente demanda por minerais essenciais para a transição energética.",
+        "Threats": "Enfrenta riscos relacionados a oscilações nos preços das commodities, regulamentações ambientais rigorosas e questões socioambientais decorrentes de atividades de mineração. A instabilidade política e econômica em mercados-chave também pode impactar suas operações.",
+        "ICP": [
+            "Indústrias siderúrgicas",
+            "Empresas de construção civil",
+            "Setor de energia",
+            "Indústrias de mineração e metalurgia",
+            "Empresas de logística e transporte",
+            "Governo e instituições reguladoras",
+            "Clientes internacionais de commodities",
+            "Setor químico",
+            "Investidores e acionistas",
+            "Mercado global de metais e minerais"
+        ]
+    },
+    {
+        "website": "https://www.vibraenergia.com.br",
+        "name": "Vibra Energia S.A.",
+        "Strenghts": "A Vibra Energia é uma das maiores empresas do setor de energia no Brasil, com forte presença na distribuição e comercialização de combustíveis, rede consolidada de postos de serviço, além de investimentos em inovação e sustentabilidade.",
+        "Weaknesses": null,
+        "Opportunities": "A empresa pode expandir sua atuação em energias renováveis, aproveitar o crescimento da demanda por combustíveis limpos e aumentar sua capilaridade no mercado nacional, além de aprimorar tecnologias digitais para melhorar a eficiência operacional.",
+        "Threats": "Concorrência acirrada no setor energético, variações nos preços internacionais dos combustíveis, mudanças regulatórias e ambientais que podem afetar a operação, além da crescente adoção de veículos elétricos que pode reduzir a demanda por combustíveis fósseis.",
+        "ICP": [
+            "Indústrias de grande porte",
+            "Comércios varejistas e atacadistas",
+            "Distribuidoras de combustíveis",
+            "Empresas de transporte rodoviário e logística",
+            "Postos de combustíveis",
+            "Setor agrícola",
+            "Consumidores residenciais",
+            "Empresas do setor energético",
+            "Governo e setor público"
+        ]
+    },
+    {
+        "website": "https://www.cosan.com.br",
+        "name": "Cosan S.A.",
+        "Strenghts": "A Cosan é uma empresa integrada que atua nos segmentos de energia, logística e infraestrutura, com sólida presença no mercado brasileiro e internacional, destacando-se pela diversificação de negócios e inovação tecnológica.",
+        "Weaknesses": null,
+        "Opportunities": "Expansão dos mercados de energia renovável e biocombustíveis, além do potencial de crescimento na logística e infraestrutura no Brasil e na América Latina.",
+        "Threats": "Variações regulatórias no setor energético, instabilidades econômicas e concorrência crescente no segmento de energia e logística.",
+        "ICP": [
+            "Produtores agrícolas de cana-de-açúcar",
+            "Indústrias de biocombustíveis",
+            "Distribuidores de combustíveis e lubrificantes",
+            "Empresas do setor de logística e transporte",
+            "Clientes industriais demandantes de energia renovável",
+            "Investidores do mercado de energia e agronegócio",
+            "Empresas do setor sucroalcooleiro",
+            "Consumidores de etanol, açúcar e energia elétrica",
+            "Empresas de infraestrutura energética"
+        ]
+    },
+    {
+        "website": "https://www.marfrig.com.br",
+        "name": "Marfrig Global Foods S.A.",
+        "Strenghts": "Marfrig é uma das maiores empresas de processamento de carne bovina do mundo, com forte presença no mercado brasileiro e internacional. Possui uma cadeia integrada que vai do campo ao consumidor, garantindo controle de qualidade e eficiência operacional. A empresa investe em inovação e sustentabilidade, alinhando-se às demandas globais por produtos responsáveis.",
+        "Weaknesses": "A Marfrig enfrenta desafios relacionados à volatilidade dos preços das commodities e custos elevados de produção. A forte dependência do mercado brasileiro expõe a empresa a riscos econômicos e regulatórios locais. Além disso, existem desafios na gestão de sua vasta operação internacional, que podem afetar a agilidade e eficiência.",
+        "Opportunities": "Há potencial de crescimento por meio da expansão em mercados internacionais, especialmente na Ásia e Europa, onde a demanda por proteínas de qualidade está em alta. Investimentos em produtos derivados e carnes processadas podem agregar valor. A crescente conscientização dos consumidores por práticas sustentáveis abre portas para diferenciação competitiva.",
+        "Threats": "Mudanças nas regulamentações ambientais e sanitárias podem impactar as operações. Concorrência acirrada no setor de alimentos, especialmente de produtores globais com maior escala, representa risco. Além disso, eventos climáticos adversos e pandemias podem afetar a oferta e a demanda dos produtos.",
+        "ICP": [
+            "Indústrias de alimentos processados",
+            "Restaurantes e redes de fast food",
+            "Distribuidores e atacadistas de carnes",
+            "Supermercados e frigoríficos",
+            "Exportadores e importadores de proteínas",
+            "Consumidores finais interessados em produtos bovinos, suínos e derivados",
+            "Setor de hotelaria e alimentação institucional",
+            "Empresas de food service",
+            "Mercado de produtos gourmet e premium",
+            "Setor agroindustrial e fornecedores de insumos para pecuária"
+        ]
+    },
+    {
+        "website": "https://www.ultra.com.br",
+        "name": "Ultrapar Participações S.A.",
+        "Strenghts": "Empresa brasileira com atuação diversificada nos setores de energia, química e gás, além de logística. Forte presença no mercado nacional, com capacidade integrada que inclui produção, distribuição e comercialização. Histórico de inovação e sustentabilidade, ampliando sua competitividade e eficiência operacional.",
+        "Weaknesses": "Dependência significativa do mercado brasileiro, o que pode limitar a diversificação de receitas. Exposição a volatilidades de preços de commodities e regulamentações específicas dos setores em que atua.",
+        "Opportunities": "Expansão em mercados internacionais e diversificação de portfólio. Investimentos em inovação tecnológica e sustentabilidade para atender às demandas crescentes por energias renováveis. Parcerias estratégicas e crescimento da demanda interna por produtos e serviços industriais.",
+        "Threats": "Concorrência acirrada de grandes players nacionais e internacionais. Variações econômicas e políticas no Brasil que podem impactar investimentos e consumo. Riscos ambientais e regulatórios, além de flutuações nos preços de commodities essenciais para o negócio.",
+        "ICP": [
+            "Consumidores finais de combustíveis",
+            "Empresas do setor de transporte e logística",
+            "Indústrias químicas",
+            "Comerciantes e distribuidores de produtos químicos",
+            "Consumidores industriais e comerciais de gás",
+            "Empresas do setor de gás natural",
+            "Empresas de varejo (para distribuição de combustíveis e lubrificantes)",
+            "Investidores institucionais e acionistas",
+            "Consumidores corporativos de lubrificantes e combustíveis"
+        ]
+    },
+    {
+        "website": "https://www.atacadao.com.br",
+        "name": "Atacadão S.A.",
+        "Strenghts": "O Atacadão é uma das maiores redes de atacado do Brasil, reconhecida por oferecer preços competitivos e uma extensa variedade de produtos em grandes quantidades, atendendo a pequenos e médios comerciantes e consumidores finais. Possui uma ampla rede de lojas com boa capilaridade nacional e forte presença em diversas regiões do país.",
+        "Weaknesses": "O formato de atacado pode limitar a atração de consumidores que preferem compras em menor volume ou com maior conveniência. Além disso, a dependência de volumes elevados pode impactar a empresa em períodos de crise econômica quando o consumo diminui.",
+        "Opportunities": "Expansão para novas regiões e o aumento da penetração no mercado de e-commerce para atender às necessidades de clientes que buscam compras online. Inovações em serviços agregados, parcerias estratégicas e a crescente demanda por produtos a preços mais acessíveis são oportunidades para crescimento.",
+        "Threats": "Concorrência intensa com outras redes de atacado e varejo, além de desafios econômicos e mudanças no comportamento do consumidor. Também existem ameaças regulatórias e logísticas que podem impactar a operação e a lucratividade da empresa.",
+        "ICP": [
+            "Pequenos e médios comerciantes",
+            "Lojistas e revendedores",
+            "Empresas de alimentação e food service",
+            "Consumidores finais que compram em grandes quantidades",
+            "Estabelecimentos comerciais como restaurantes e bares",
+            "Organizações que realizam compras em atacado"
+        ]
+    },
+    {
+        "website": "https://www.cargill.com.br",
+        "name": "Cargill Alimentos Ltda.",
+        "Strenghts": "Empresa multinacional com forte presença no setor agrícola e de alimentos, reconhecida pela inovação, sustentabilidade e ampla rede de operações no Brasil.",
+        "Weaknesses": "Informações específicas sobre pontos fracos não estão disponíveis diretamente na página.",
+        "Opportunities": "Crescimento do mercado brasileiro de agronegócios, aumento da demanda por produtos sustentáveis e expansão em novas áreas tecnológicas e de produção.",
+        "Threats": "Riscos relacionados a variações climáticas, regulamentações ambientais rigorosas e volatilidade dos mercados agrícolas globais.",
+        "ICP": [
+            "Indústrias alimentícias",
+            "Produtores agrícolas",
+            "Distribuidores de alimentos",
+            "Empresas de ração animal",
+            "Comerciantes atacadistas de produtos alimentícios",
+            "Cooperativas agrícolas",
+            "Indústrias de biocombustíveis",
+            "Indústrias de ingredientes alimentícios",
+            "Restaurantes e redes de alimentação",
+            "Fornecedores de commodities agrícolas"
+        ]
+    },
+    {
+        "website": "https://www.ambev.com.br",
+        "name": "Ambev S.A.",
+        "Strenghts": "A Ambev é uma das maiores empresas de bebidas da América Latina, com uma ampla carteira de marcas fortes como Skol, Brahma e Antarctica. Possui grande capilaridade de distribuição e forte presença no mercado brasileiro, além de uma sólida estrutura financeira e capacidade de inovação constante.",
+        "Weaknesses": "A dependência significativa do mercado brasileiro expõe a empresa a riscos econômicos e políticos locais. Além disso, a concentração em bebidas alcoólicas pode limitar a diversificação de receitas.",
+        "Opportunities": "A crescente demanda por produtos premium e cervejas artesanais representa uma oportunidade para ampliar o portfólio. A expansão em mercados internacionais e investimentos em sustentabilidade também podem impulsionar o crescimento futuro.",
+        "Threats": "Concorrência intensa no setor de bebidas, mudanças regulatórias e tributárias no Brasil, além de questões ambientais e sociais que podem impactar a imagem da empresa. Também há riscos relacionados a flutuações nos preços de insumos e mudanças no comportamento do consumidor.",
+        "ICP": [
+            "Consumidores finais de bebidas alcoólicas (cervejas, chope, energéticos, destilados)",
+            "Estabelecimentos comerciais (bares, restaurantes, supermercados, lojas de conveniência)",
+            "Distribuidores e atacadistas de bebidas",
+            "Mercado corporativo para eventos e festas",
+            "Mercado de bebidas não alcoólicas (água, refrigerantes, sucos)"
+        ]
+    },
+    {
+        "website": "https://www.stellantis.com/pt-br",
+        "name": "Stellantis Automóveis Brasil Ltda.",
+        "Strenghts": "A Stellantis é uma das maiores fabricantes automotivas do mundo, resultado da fusão entre FCA e PSA, com uma ampla diversidade de marcas e presença global significativa. A empresa destaca seu compromisso com a inovação, tecnologia, sustentabilidade e desenvolvimento de veículos elétricos e autônomos.",
+        "Weaknesses": null,
+        "Opportunities": "A empresa tem oportunidades de crescimento nos mercados de mobilidade sustentável e veículos elétricos, além de expandir sua presença em mercados emergentes e investir em novas tecnologias que atendam às demandas globais por soluções mais limpas e conectadas.",
+        "Threats": "O setor automotivo enfrenta desafios regulatórios rigorosos relacionados a emissões e sustentabilidade, alta competitividade do mercado global, além de riscos associados a flutuações econômicas e mudanças rápidas na tecnologia e no comportamento do consumidor.",
+        "ICP": [
+            "Consumidores finais de veículos de passeio",
+            "Compradores corporativos de frotas",
+            "Revendas autorizadas de automóveis",
+            "Clientes de serviços de mobilidade",
+            "Usuários de soluções de veículos comerciais",
+            "Entusiastas de automóveis elétricos e híbridos",
+            "Clientes de pós-venda e manutenção automotiva",
+            "Investidores e parceiros estratégicos do setor automotivo"
+        ]
+    },
+    {
+        "website": "https://www.braskem.com.br",
+        "name": "Braskem S.A.",
+        "Strenghts": "Braskem é a maior produtora de resinas das Américas e a maior produtora mundial de biopolímeros, com avançada tecnologia em química e foco em sustentabilidade. Possui forte integração vertical e presença global, o que permite maior eficiência e acesso a mercados diversos.",
+        "Weaknesses": "A empresa enfrenta desafios relacionados à exposição a variações nos preços de commodities e à dependência do mercado internacional de petroquímicos, além de sua complexa estrutura operacional que pode levar a custos elevados.",
+        "Opportunities": "Braskem tem oportunidades de crescimento através da inovação em materiais sustentáveis e desenvolvimento de soluções de economia circular, além da expansão em mercados emergentes e novas aplicações para biopolímeros.",
+        "Threats": "Riscos regulatórios ambientais, volatilidade dos preços do petróleo, competitividade acirrada no setor petroquímico e eventuais impactos socioambientais que podem afetar sua imagem e operações.",
+        "ICP": [
+            "Indústrias químicas e petroquímicas",
+            "Fabricantes de resinas e polímeros",
+            "Setor de embalagens plásticas",
+            "Indústrias automotivas",
+            "Setor de construção civil",
+            "Indústrias de bens de consumo",
+            "Setor agrícola",
+            "Empresas de energia",
+            "Setor de eletrônicos e eletrodomésticos",
+            "Indústrias de materiais para infraestrutura"
+        ]
+    },
+    {
+        "website": "http://www.sendasdistribuidora.com.br",
+        "name": "Sendas Distribuidora S.A.",
+        "Strenghts": null,
+        "Weaknesses": null,
+        "Opportunities": null,
+        "Threats": null,
+        "ICP": [
+            "Supermercados e hipermercados",
+            "Lojas de varejo alimentar",
+            "Atacadistas e distribuidores",
+            "Pequenos e médios comerciantes do setor alimentício",
+            "Estabelecimentos de food service (restaurantes, lanchonetes, padarias)"
+        ]
+    },
+    {
+        "website": "https://www.bunge.com.br",
+        "name": "Bunge Alimentos S.A.",
+        "Strenghts": "A Bunge é uma empresa global com forte presença no setor de agronegócio e alimentos, destacando-se pela atuação integrada que vai do campo até o consumidor final, incluindo produção, processamento e distribuição. Possui expertise em soluções sustentáveis e inovação tecnológica, além de uma sólida rede logística que promove eficiência operacional.",
+        "Weaknesses": null,
+        "Opportunities": "A empresa pode aproveitar o crescimento da demanda por alimentos naturais e sustentáveis, além de expandir sua atuação em biocombustíveis e novos mercados internacionais. Incrementar investimentos em tecnologia e digitalização também representa uma oportunidade para melhorar processos e competitividade.",
+        "Threats": "Riscos relacionados à volatilidade dos preços das commodities agrícolas, mudanças climáticas que impactam a produção agrícola, além de possíveis alterações regulatórias e políticas comerciais que podem afetar operações e lucros.",
+        "ICP": [
+            "Agricultores",
+            "Produtores rurais",
+            "Indústrias de alimentos",
+            "Indústrias de óleo e biodiesel",
+            "Distribuidores de commodities agrícolas",
+            "Comerciantes de produtos agrícolas",
+            "Fabricantes de alimentos processados",
+            "Mercado varejista de alimentos",
+            "Agronegócio",
+            "Indústrias de nutrição animal"
+        ]
+    },
+    {
+        "website": "https://www.gerdau.com.br",
+        "name": "Gerdau S.A.",
+        "Strenghts": "A Gerdau é uma das maiores produtoras de aço do Brasil e da América Latina, com ampla presença no mercado e diversidade de produtos. Destaca-se pela sua capacidade tecnológica, inovação, sustentabilidade e forte atuação em setores estratégicos, como construção civil, indústria automotiva e infraestrutura.",
+        "Weaknesses": null,
+        "Opportunities": "A demanda crescente por infraestrutura e construção civil no Brasil e na América Latina oferece oportunidades para expansão. Além disso, o aumento do foco em soluções sustentáveis e econômicas pode impulsionar a inovação e novos mercados para a Gerdau.",
+        "Threats": "A empresa enfrenta riscos relacionados à volatilidade dos preços do aço no mercado internacional, concorrência acirrada, variações cambiais e possíveis impactos ambientais ou regulatórios que possam afetar sua produção e operação.",
+        "ICP": [
+            "Indústrias metalúrgicas",
+            "Construtoras e empresas de construção civil",
+            "Setor automotivo",
+            "Setor de máquinas e equipamentos",
+            "Empresas do setor de infraestrutura",
+            "Comércio e revenda de aço",
+            "Empresas do setor energético",
+            "Setor naval e offshore",
+            "Setor agrícola",
+            "Indústrias de transformação"
+        ]
+    },
+    {
+        "website": "https://corporativo.arcelormittal.com.br/",
+        "name": "Arcelormittal Brasil S.A.",
+        "Strenghts": "A ArcelorMittal é uma das maiores produtoras de aço do mundo, com forte presença global e no Brasil. A empresa destaca-se pelo compromisso com a inovação, sustentabilidade e eficiência operacional, além de possuir tecnologia avançada e capacidade produtiva robusta.",
+        "Weaknesses": "Informações específicas sobre pontos fracos não estão disponíveis diretamente no site corporativo.",
+        "Opportunities": "Há oportunidades de crescimento em mercados emergentes, ampliação de soluções sustentáveis e desenvolvimento de novos produtos tecnológicos para o setor siderúrgico, alinhados à demanda crescente por aço de alta qualidade e menor impacto ambiental.",
+        "Threats": "O setor pode ser impactado por flutuações econômicas, variações nos preços das matérias-primas, concorrência internacional acirrada e regulações ambientais cada vez mais rigorosas.",
+        "ICP": [
+            "Indústrias de construção civil",
+            "Setor automotivo",
+            "Indústrias de eletrodomésticos",
+            "Setor de máquinas e equipamentos",
+            "Indústrias de infraestrutura e engenharia",
+            "Setor de manufatura metálica",
+            "Empresas de energia e petróleo",
+            "Setor de transporte e logística",
+            "Indústrias de tubulação e tubos",
+            "Mercado de embalagens metálicas"
+        ]
+    },
+    {
+        "website": "https://www.copersucar.com.br",
+        "name": "Copersucar S.A.",
+        "Strenghts": "A Copersucar é uma das maiores empresas do setor sucroalcooleiro no Brasil, reconhecida por sua eficiência operacional, capacidade logística integrada e atuação consolidada em produção e comercialização de açúcar e etanol. Possui forte rede de cooperativas, o que garante acesso a matéria-prima de qualidade e apoio dos associados.",
+        "Weaknesses": "Como uma cooperativa, a Copersucar pode enfrentar desafios na rápida tomada de decisões e na adaptação a mudanças de mercado devido à estrutura colaborativa. Além disso, a dependência do setor sucroalcooleiro pode expor a empresa a riscos relacionados a variações climáticas e preços de commodities.",
+        "Opportunities": "Expansão dos mercados internacionais para açúcar e etanol, aumento da demanda por biocombustíveis sustentáveis e investimentos em tecnologia para aumento de produtividade e sustentabilidade representam oportunidades para a empresa. A diversificação de produtos e regiões também pode ampliar seu alcance.",
+        "Threats": "Riscos regulatórios e ambientais relacionados à produção agroindustrial, volatilidade dos preços internacionais do açúcar e etanol, concorrência acirrada no mercado global e impactos das mudanças climáticas são ameaças constantes para o setor e, consequentemente, para a Copersucar.",
+        "ICP": [
+            "Usinas de açúcar e álcool",
+            "Indústrias de bioenergia",
+            "Distribuidores e revendedores de combustíveis",
+            "Produtores agrícolas de cana-de-açúcar",
+            "Importadores e exportadores de açúcar",
+            "Consumidores industriais de açúcar e etanol",
+            "Empresas de transporte e logística no setor sucroalcooleiro",
+            "Investidores e parceiros do setor renovável"
+        ]
+    },
+    {
+        "website": "https://www.mercadolivre.com.br",
+        "name": "Mercadolivre.com Atividades de Internet Ltda.",
+        "Strenghts": "O Mercado Livre é a maior plataforma de comércio eletrônico da América Latina, com ampla presença e reconhecimento de marca. Possui uma robusta infraestrutura logística e tecnológica, além de oferecer serviços financeiros como o Mercado Pago, que aumentam a fidelização dos usuários.",
+        "Weaknesses": "Dependência significativa do mercado latino-americano pode limitar a diversificação e expansão global. Eventuais falhas na logística ou atendimento ao cliente podem impactar negativamente a experiência do usuário.",
+        "Opportunities": "Expansão contínua do comércio eletrônico na América Latina, crescimento dos serviços financeiros digitais, melhorias em logística e novas parcerias estratégicas podem impulsionar a empresa. A adoção de novas tecnologias pode ampliar a eficiência e a oferta de serviços.",
+        "Threats": "Concorrência crescente de outras plataformas de e-commerce, variações econômicas e políticas na região, além de riscos relacionados à segurança digital e fraudes podem ameaçar o negócio.",
+        "ICP": [
+            "Consumidores finais de produtos eletrônicos, moda, casa e decoração, automotivo, beleza, brinquedos, esportes e lazer",
+            "Pequenos e médios empreendedores que utilizam a plataforma para vender seus produtos",
+            "Lojistas e vendedores profissionais que operam lojas digitais no marketplace",
+            "Compradores interessados em serviços financeiros digitais, como Mercado Pago",
+            "Usuários que procuram serviços de logística integrada, como Mercado Envios",
+            "Desenvolvedores e empresas interessadas em soluções de APIs para e-commerce",
+            "Consumidores que buscam opções de compra direta e venda de produtos usados",
+            "Microempreendedores individuais que utilizam a plataforma para comercialização online"
+        ]
+    },
+    {
+        "website": "https://www.brf-global.com",
+        "name": "BRF S.A.",
+        "Strenghts": "BRF é uma das maiores empresas de alimentos do mundo, reconhecida pela sua ampla diversidade de produtos, forte presença internacional, e compromisso com sustentabilidade e inovação.",
+        "Weaknesses": "A dependência de commodities e vulnerabilidade a flutuações nos preços de matérias-primas podem impactar os custos de produção e margens de lucro da empresa.",
+        "Opportunities": "Expansão em mercados emergentes, aumento da demanda por proteínas alternativas e produtos sustentáveis, assim como o investimento em tecnologia para inovação de produtos e eficiência operacional.",
+        "Threats": "Concorrência acirrada no setor de alimentos, volatilidade econômica global, barreiras comerciais e regulatórias, além de riscos relacionados à saúde pública e logística.",
+        "ICP": [
+            "Consumidores finais",
+            "Varejistas de alimentos",
+            "Atacadistas e distribuidores alimentícios",
+            "Restaurantes e redes de fast food",
+            "Serviços de alimentação institucional (hospitais, escolas, empresas)",
+            "Indústrias de alimentos processados",
+            "Mercados e supermercados",
+            "Canais de comércio eletrônico de alimentos"
+        ]
+    },
+    {
+        "website": "https://www.telefonica.com.br",
+        "name": "Telefônica Brasil S.A.",
+        "Strenghts": "A Telefônica Brasil é uma das maiores empresas de telecomunicações do país, com ampla cobertura de rede, forte reconhecimento de marca, infraestrutura tecnológica avançada e portfólio diversificado de serviços incluindo telefonia, internet e TV por assinatura.",
+        "Weaknesses": "Desafios relacionados à alta concorrência no mercado brasileiro de telecomunicações e a necessidade constante de investimento em atualização tecnológica para manter a competitividade.",
+        "Opportunities": "Expansão de serviços digitais, adoção crescente de tecnologias 5G, aumento da demanda por conectividade e transformação digital em diversos setores da economia brasileira.",
+        "Threats": "Concorrência intensa de outras operadoras, possíveis mudanças regulatórias desfavoráveis, e vulnerabilidades associadas à segurança cibernética.",
+        "ICP": [
+            "Clientes residenciais",
+            "Pequenas e médias empresas (PMEs)",
+            "Grandes corporações",
+            "Setor público",
+            "Provedores de serviços de internet (ISPs)",
+            "Clientes de serviços de tecnologia e inovação",
+            "Consumidores de serviços móveis",
+            "Usuários de serviços fixos e banda larga"
+        ]
+    },
+    {
+        "website": "https://www.shell.com.br",
+        "name": "Shell Brasil Petróleo Ltda.",
+        "Strenghts": "A Shell é uma empresa globalmente reconhecida no setor de energia, com forte presença no mercado brasileiro. Possui uma vasta experiência em exploração e produção de petróleo e gás, além de investir em tecnologias sustentáveis e energias renováveis. Sua marca é consolidada, com ampla infraestrutura e capacidade de inovação.",
+        "Weaknesses": "A Shell enfrenta desafios relacionados à dependência de combustíveis fósseis, o que pode impactar sua imagem frente às crescentes demandas por sustentabilidade. Além disso, custos operacionais elevados e a exposição a variações nos preços do petróleo podem ser pontos frágeis.",
+        "Opportunities": "Há oportunidades significativas em expandir investimentos em energia renovável e projetos de baixa emissão de carbono, alinhando-se às políticas ambientais globais e brasileiras. O crescimento da demanda por combustíveis mais limpos e soluções sustentáveis pode abrir novos mercados.",
+        "Threats": "Principalmente, a Shell está exposta a riscos regulatórios ambientais rigorosos, oscilações no mercado global de petróleo, além de concorrência acirrada no setor de energia. Mudanças nas políticas governamentais e alternativas energéticas podem ameaçar sua participação no mercado.",
+        "ICP": [
+            "Consumidores finais de combustíveis automotivos",
+            "Empresas do setor de transporte e logística",
+            "Indústrias de fabricação e produção",
+            "Empresas do setor energético",
+            "Postos de combustíveis e distribuidores",
+            "Consumidores de lubrificantes e óleos industriais",
+            "Empresas de petroquímica",
+            "Setor de energia renovável e mobilidade sustentável",
+            "Clientes comerciais e corporativos",
+            "Setor marítimo e aviação"
+        ]
+    },
+    {
+        "website": "https://www.cofcointernational.com.br",
+        "name": "Cofco International Brasil S.A.",
+        "Strenghts": "A Cofco International Brasil é uma empresa com forte presença no agronegócio, destacando-se pela experiência global, capacidade logística robusta e comprometimento com a sustentabilidade e inovação tecnológica.",
+        "Weaknesses": "Não foram encontradas informações específicas sobre pontos fracos da empresa na página fornecida.",
+        "Opportunities": "O crescimento do mercado agrícola brasileiro e a demanda crescente por alimentos sustentáveis representam oportunidades para expansão e fortalecimento da atuação da empresa.",
+        "Threats": "Desafios relacionados a variações climáticas, instabilidades econômicas e mudanças regulatórias podem impactar negativamente as operações da empresa.",
+        "ICP": [
+            "Exportadores e importadores de commodities agrícolas",
+            "Indústrias de processamento de alimentos",
+            "Agricultores e produtores agrícolas",
+            "Distribuidores e atacadistas de produtos agropecuários",
+            "Empresas de logística e transporte de commodities",
+            "Mercados financeiros e investidores em commodities",
+            "Setor de bioenergia e biocombustíveis",
+            "Empresas de trading e comercialização internacional",
+            "Governo e órgãos reguladores do agronegócio",
+            "Instituições de pesquisa e desenvolvimento agrícola"
+        ]
+    },
+    {
+        "website": "https://www.rededorsaoluiz.com.br",
+        "name": "Rede D' Or São Luiz S.A.",
+        "Strenghts": "Rede D'Or São Luiz é a maior empresa independente do setor de hospitais e serviços de saúde privados no Brasil, com ampla cobertura nacional, foco em inovação e alta qualidade em atendimento.",
+        "Weaknesses": null,
+        "Opportunities": "Crescimento da demanda por serviços de saúde no Brasil, possibilidade de expansão para novas regiões, integração de tecnologias digitais e aumento de investimentos em saúde privada.",
+        "Threats": "Regulamentações governamentais restritivas, concorrência acirrada no setor de saúde, instabilidade econômica afetando o poder de compra dos clientes e desafios operacionais decorrentes de crises sanitárias.",
+        "ICP": [
+            "Pacientes em busca de atendimento hospitalar de alta complexidade",
+            "Pacientes em busca de atendimento ambulatorial e diagnóstico",
+            "Profissionais de saúde (médicos, enfermeiros, técnicos) buscando oportunidades de trabalho",
+            "Planos de saúde corporativos e individuais",
+            "Familiares e acompanhantes de pacientes hospitalizados",
+            "Operadoras de seguros de saúde",
+            "Instituições governamentais e privadas para parcerias na área de saúde"
+        ]
+    },
+    {
+        "website": "https://www.neoenergia.com",
+        "name": "Neoenergia S.A.",
+        "Strenghts": "Neoenergia é uma das maiores empresas de energia do Brasil, com uma presença consolidada em geração, transmissão e distribuição de energia elétrica. Possui um portfólio diversificado e investimentos em energias renováveis, o que fortalece sua sustentabilidade e inovação no setor.",
+        "Weaknesses": null,
+        "Opportunities": "Expansão do mercado de energias renováveis no Brasil oferece oportunidades para crescimento sustentável. A modernização e digitalização da rede elétrica podem melhorar a eficiência e o atendimento ao cliente, além de possibilitar novos negócios e parcerias.",
+        "Threats": "Riscos regulatórios e variações no mercado energético brasileiro podem impactar o negócio. Concorrência crescente e desafios ambientais, como mudanças climáticas, podem afetar a operação e a reputação da empresa.",
+        "ICP": [
+            "Consumidores residenciais de energia elétrica",
+            "Empresas comerciais e industriais",
+            "Órgãos governamentais e instituições públicas",
+            "Incorporadoras e construtoras",
+            "Investidores e parceiros de projetos de energia renovável",
+            "Clientes do segmento de geração distribuída",
+            "Concessionárias e permissionárias do setor elétrico"
+        ]
+    },
+    {
+        "website": "https://www.claro.com.br",
+        "name": "Claro Telecom Participações S.A.",
+        "Strenghts": "Claro é uma das maiores operadoras de telecomunicações do Brasil, com ampla cobertura de rede móvel e fixa, além de oferecer uma gama diversificada de serviços como internet banda larga, TV por assinatura e telefonia. A marca é reconhecida pela qualidade do atendimento e inovação tecnológica, contando com infraestrutura robusta e presença nacional consolidada.",
+        "Weaknesses": "A dependência do mercado brasileiro expõe a empresa a instabilidades econômicas locais. Além disso, a alta competitividade do setor pode impactar a fidelização de clientes, e eventuais falhas em atendimento ao cliente podem prejudicar sua reputação.",
+        "Opportunities": "Expansão da cobertura de redes 5G no Brasil, oferta crescente de serviços digitais e soluções convergentes, além de parcerias estratégicas para ampliar o portfólio de produtos podem representar oportunidades. Investimento em tecnologias emergentes e melhora contínua da experiência do cliente também são caminhos promissores.",
+        "Threats": "Concorrência intensa de outras grandes operadoras e provedores regionais, rápida evolução tecnológica que exige investimentos constantes, além de regulação governamental rigorosa e instabilidades econômicas que podem afetar o setor.",
+        "ICP": [
+            "consumidores residenciais",
+            "pequenas e médias empresas (PMEs)",
+            "grandes empresas",
+            "usuários de telefonia móvel",
+            "assinantes de internet banda larga",
+            "consumidores de TV por assinatura",
+            "usuários de serviços digitais e de streaming",
+            "setor corporativo e enterprise",
+            "clientes de serviços de TI e cloud computing"
+        ]
+    },
+    {
+        "website": "https://www.suzano.com.br",
+        "name": "Suzano S.A.",
+        "Strenghts": "A Suzano é uma das maiores produtoras de celulose e papel do mundo, com forte presença internacional e uma ampla base de clientes. A empresa destaca-se por sua inovação tecnológica, sustentabilidade ambiental e compromisso com a economia circular, além de possuir uma sólida estrutura financeira e capacidade produtiva integrada.",
+        "Weaknesses": "A dependência do mercado global de celulose e papel expõe a empresa a flutuações nos preços internacionais. Além disso, a Suzano atua em um setor com alta competitividade e pode enfrentar desafios relacionados à gestão de grandes operações e adaptação a mudanças regulatórias ambientais.",
+        "Opportunities": "A crescente demanda global por produtos sustentáveis abre espaço para expansão, especialmente em mercados que valorizam a economia verde. A empresa pode aproveitar avanços tecnológicos para diversificar produtos e aumentar a eficiência produtiva, além de explorar parcerias estratégicas e ampliando a presença em mercados emergentes.",
+        "Threats": "Riscos ambientais, como secas e desmatamento, podem impactar a produção. Além disso, variações cambiais, instabilidades econômicas globais e concorrência acirrada representam ameaças significativas. Pressões regulatórias relacionadas ao meio ambiente e políticas comerciais protecionistas também podem afetar o desempenho da empresa.",
+        "ICP": [
+            "Indústrias de Papel e Celulose",
+            "Fabricantes de Embalagens",
+            "Setor de Construção Civil",
+            "Segmento de Material de Escritório",
+            "Empresas de Comunicação Visual e Impressão",
+            "Setor de Agricultura e Pecuária",
+            "Indústrias de Produtos Químicos",
+            "Mercado de Energia Renovável",
+            "Setor de Biotecnologia",
+            "Consumidores de Produtos Sustentáveis"
+        ]
+    },
+    {
+        "website": "http://www.refinariamatahipe.com.br",
+        "name": "Refinaria de Mataripe S.A.",
+        "Strenghts": null,
+        "Weaknesses": null,
+        "Opportunities": null,
+        "Threats": null,
+        "ICP": [
+            "Indústrias Petroquímicas",
+            "Distribuidoras de Combustíveis",
+            "Transportadoras e Empresas Logísticas",
+            "Empresas de Aviação",
+            "Setor Automotivo",
+            "Concessionárias de Energia",
+            "Órgãos Governamentais de Energia e Meio Ambiente",
+            "Comerciantes e Revendedores de Combustíveis",
+            "Empresas de Construção Civil e Infraestrutura",
+            "Setor Industrial Pesado"
+        ]
+    },
+    {
+        "website": "https://www.equatorialenergia.com.br",
+        "name": "Equatorial S.A.",
+        "Strenghts": "A Equatorial Energia é uma das maiores empresas do setor de energia do Brasil, com forte presença regional e diversificação de suas operações em geração, transmissão e distribuição de energia elétrica. Possui sólido histórico de crescimento e investimentos em inovação tecnológica e sustentabilidade.",
+        "Weaknesses": "Dependência significativa do mercado brasileiro, o que pode expor a empresa a riscos regulatórios e econômicos locais. Possíveis desafios na integração de aquisições e na gestão de operações ampliadas podem afetar eficiência operacional.",
+        "Opportunities": "Expansão dos serviços e melhoria na infraestrutura energética no Brasil, especialmente em regiões menos atendidas. Crescimento do mercado de energia renovável e incentivos governamentais para sustentabilidade podem abrir novas frentes de negócios.",
+        "Threats": "Mudanças regulatórias e tarifárias no setor elétrico brasileiro que podem impactar a rentabilidade. Concorrência crescente e riscos associados à instabilidade econômica e política no país também representam ameaças relevantes.",
+        "ICP": [
+            "Consumidores residenciais",
+            "Consumidores comerciais",
+            "Consumidores industriais",
+            "Órgãos públicos",
+            "Concessionárias e permissionárias de energia",
+            "Geradores de energia",
+            "Empresas de infraestrutura e construção",
+            "Transportadoras de energia"
+        ]
+    },
+    {
+        "website": "https://www.enel.com.br",
+        "name": "Enel Brasil S.A.",
+        "Strenghts": "A Enel é uma das maiores empresas do setor de energia no Brasil, com forte presença em geração, distribuição e comercialização de energia elétrica. Possui ampla diversificação de fontes, incluindo renováveis, tecnologia avançada e compromisso com a sustentabilidade e inovação.",
+        "Weaknesses": "O site não apresenta explicitamente pontos fracos da empresa, porém, como uma grande empresa do setor energético, pode enfrentar desafios relacionados à burocracia, altos custos operacionais e dependência regulatória.",
+        "Opportunities": "A Enel tem oportunidades de crescimento com a expansão das energias renováveis no Brasil, digitalização de seus serviços, e a crescente demanda por soluções sustentáveis em energia, além de possibilidades de investimento em inovação tecnológica.",
+        "Threats": "O setor elétrico é sujeito a riscos regulatórios, variações na demanda e oferta, além de impactos ambientais e sociais que podem afetar a operação. Concorrência crescente e a volatilidade econômica também representam ameaças.",
+        "ICP": [
+            "Consumidores residenciais",
+            "Empresas comerciais e industriais",
+            "Órgãos governamentais",
+            "Empreendedores e incorporadores imobiliários",
+            "Comércios varejistas",
+            "Setor de energia renovável",
+            "Clientes de soluções digitais e tecnológicas para energia",
+            "Usuários de mobilidade elétrica",
+            "Instituições financeiras e investidores"
+        ]
+    }
+]

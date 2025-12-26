@@ -1,0 +1,1211 @@
+[
+    {
+        "rank_2024": "1",
+        "rank_2023": "1",
+        "name": "Petróleo Brasileiro S.A. Petrobras",
+        "headquarters": "RJ",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "490.829,0",
+        "cnpj": "33.000.167/0001-01",
+        "website": "https://www.petrobras.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/petrobras/",
+        "description": "A Petróleo Brasileiro S.A. - Petrobras é uma empresa estatal brasileira de capital aberto que atua na exploração, produção, refino, transporte e comercialização de petróleo, gás natural e seus derivados.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Petrobras Distribuidora S.A. (BR Distribuidora)",
+            "Petrobras Gás S.A. (Petrobras Gás)",
+            "Petrobras Química S.A.",
+            "Petrobras Transporte S.A.",
+            "Petrobras Biocombustível S.A.",
+            "Petrobras Transporte Multimodal S.A.",
+            "Petrobras Global Participações S.A."
+        ],
+        "brands": [
+            "Petrobras",
+            "BR"
+        ],
+        "economic_group": "Grupo Petrobras",
+        "main_products": [
+            "Exploração de petróleo",
+            "Produção de petróleo",
+            "Refino de petróleo",
+            "Transporte de petróleo",
+            "Exploração de gás natural",
+            "Produção de gás natural",
+            "Transporte de gás natural",
+            "Comercialização de petróleo",
+            "Comercialização de gás natural",
+            "Venda de derivados de petróleo"
+        ],
+        "categories": [
+            "Exploração e produção de petróleo e gás",
+            "Refino e distribuição de derivados de petróleo",
+            "Transporte e logística de petróleo e gás",
+            "Comercialização de combustíveis fósseis"
+        ],
+        "industry_segment": "Indústria de petróleo e gás upstream e downstream"
+    },
+    {
+        "rank_2024": "2",
+        "rank_2023": "2",
+        "name": "JBS S.A.",
+        "headquarters": "SP",
+        "sector": "Alimentos e Bebidas",
+        "revenue_brl_million": "416.952,0",
+        "cnpj": "16.670.085/0001-55",
+        "website": "https://jbs.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/jbs/",
+        "description": "JBS S.A. é uma empresa brasileira líder mundial na indústria de alimentos, especializada na produção e comercialização de carnes bovina, suína e de frango, além de produtos processados.",
+        "parent_company": null,
+        "subsidiaries": [
+            "JBS USA Holdings, Inc.",
+            "Pilgrim's Pride Corporation",
+            "Seara Alimentos Ltda",
+            "Mondelez JBS Participações Ltda",
+            "Friboi",
+            "JBS Couros",
+            "JBS Linen",
+            "JBS Foods International B.V."
+        ],
+        "brands": [
+            "Friboi",
+            "Seara",
+            "Pilgrim's Pride",
+            "Swift",
+            "Buffalo",
+            "Gold Kist"
+        ],
+        "economic_group": "J&F Investimentos",
+        "main_products": [
+            "Carne bovina",
+            "Carne suína",
+            "Carne de frango",
+            "Produtos cárneos processados"
+        ],
+        "categories": [
+            "Carnes in natura",
+            "Produtos cárneos processados",
+            "Alimentos à base de proteína animal"
+        ],
+        "industry_segment": "Indústria de proteínas animais e alimentos processados"
+    },
+    {
+        "rank_2024": "3",
+        "rank_2023": "3",
+        "name": "Raizen S.A.",
+        "headquarters": "RJ",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "255.268,5",
+        "cnpj": "00.886.665/0001-60",
+        "website": "https://www.raizen.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/raizen/",
+        "description": "A Raízen S.A. é uma empresa brasileira do setor de energia, atuando na produção de etanol, açúcar, bioenergia e comercialização de combustíveis, resultado de uma joint venture entre a Shell e a Cosan.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Raízen Combustíveis",
+            "Raízen Energia",
+            "Raízen Carbon",
+            "Raízen Lubrificantes",
+            "Raízen Exportação e Comercialização"
+        ],
+        "brands": [
+            "Shell",
+            "Raízen"
+        ],
+        "economic_group": "Raízen",
+        "main_products": [
+            "Etanol",
+            "Açúcar",
+            "Bioenergia",
+            "Comercialização de combustíveis"
+        ],
+        "categories": [
+            "Biocombustíveis",
+            "Agronegócio",
+            "Energia Renovável",
+            "Combustíveis"
+        ],
+        "industry_segment": "Produção e Comercialização de Biocombustíveis e Energia"
+    },
+    {
+        "rank_2024": "4",
+        "rank_2023": "4",
+        "name": "Vale S.A.",
+        "headquarters": "RJ",
+        "sector": "Mineração",
+        "revenue_brl_million": "206.005,0",
+        "cnpj": "33.592.510/0001-54",
+        "website": "https://www.vale.com",
+        "linkedin_url": "https://www.linkedin.com/company/vale/",
+        "description": "A Vale S.A. é uma das maiores mineradoras do mundo, especializada na extração e produção de minério de ferro, níquel, carvão, cobre, e outros minerais, além de atuar na logística e energia.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Vale Fertilizantes",
+            "Vale Base Metals",
+            "Vale Manganês",
+            "Vale Energia",
+            "Vale Logística",
+            "Vale Canadá",
+            "Vale Moçambique",
+            "Vale Indonésia",
+            "Vale Papua Nova Guiné"
+        ],
+        "brands": [
+            "Vale"
+        ],
+        "economic_group": "Vale S.A.",
+        "main_products": [
+            "minério de ferro",
+            "níquel",
+            "carvão",
+            "cobre",
+            "logística",
+            "energia"
+        ],
+        "categories": [
+            "mineração",
+            "metais e minerais",
+            "energia",
+            "logística e transporte"
+        ],
+        "industry_segment": "mineração e produção de metais"
+    },
+    {
+        "rank_2024": "5",
+        "rank_2023": "5",
+        "name": "Vibra Energia S.A.",
+        "headquarters": "RJ",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "172.272,0",
+        "cnpj": "02.467.257/0001-95",
+        "website": "https://www.vibraenergia.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/vibraenergia/",
+        "description": "A Vibra Energia S.A. é uma empresa brasileira do setor de energia, atuando na distribuição e comercialização de combustíveis, além de operar uma ampla rede de postos e soluções energéticas para diversos mercados.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Oleoplan S.A.",
+            "AEA - Águas Espirituosas e Alimentos S.A.",
+            "Vibra Líquidos",
+            "BR Distribuidora",
+            "Biomas Energia",
+            "Vibra Renováveis"
+        ],
+        "brands": [
+            "Vibra",
+            "BR",
+            "Texaco",
+            "Shell (no Brasil, operada pela Vibra Energia sob licença)"
+        ],
+        "economic_group": "Vibra Energia",
+        "main_products": [
+            "Distribuição de combustíveis",
+            "Comercialização de combustíveis",
+            "Operação de rede de postos de combustíveis",
+            "Soluções energéticas para mercados diversos"
+        ],
+        "categories": [
+            "Distribuição de Combustíveis",
+            "Comercialização de Combustíveis",
+            "Postos de Combustíveis",
+            "Soluções Energéticas"
+        ],
+        "industry_segment": "Energia e Combustíveis - Distribuição e Comercialização"
+    },
+    {
+        "rank_2024": "6",
+        "rank_2023": "6",
+        "name": "Cosan S.A.",
+        "headquarters": "SP",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "169.273,0",
+        "cnpj": "33.042.490/0001-09",
+        "website": "https://www.cosan.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/cosan",
+        "description": "A Cosan S.A. é uma empresa brasileira atuante nos setores de energia, logística e infraestrutura, com foco em produção de biocombustíveis, distribuição de combustíveis, e operações de logística integrada.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Raízen",
+            "Moove",
+            "Radar",
+            "Comgás",
+            "Rumo Logística"
+        ],
+        "brands": [
+            "Shell (combustíveis e lubrificantes, via joint venture Raízen)",
+            "Moove",
+            "Radar"
+        ],
+        "economic_group": "Grupo Cosan",
+        "main_products": [
+            "etanol",
+            "bioenergia",
+            "distribuição de combustíveis",
+            "logística integrada",
+            "armazenagem de combustíveis",
+            "transporte rodoviário de cargas",
+            "produção de biocombustíveis",
+            "infraestrutura logística"
+        ],
+        "categories": [
+            "biocombustíveis",
+            "energia renovável",
+            "distribuição de combustíveis",
+            "logística e transporte",
+            "infraestrutura"
+        ],
+        "industry_segment": "Energia e logística integrada com foco em biocombustíveis"
+    },
+    {
+        "rank_2024": "7",
+        "rank_2023": "7",
+        "name": "Marfrig Global Foods S.A.",
+        "headquarters": "SP",
+        "sector": "Alimentos e Bebidas",
+        "revenue_brl_million": "148.861,0",
+        "cnpj": "02.994.121/0001-50",
+        "website": "https://www.marfrig.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/marfrig-global-foods",
+        "description": "A Marfrig Global Foods S.A. é uma das maiores empresas de alimentos do mundo, especializada na produção de carne bovina, suína e bovinos, além de atuar na cadeia produtiva de proteína animal, exportando seus produtos globalmente.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Marfrig Alimentos S.A.",
+            "National Beef Packing Company LLC",
+            "Maeva S.A.",
+            "Compass Minerva S.A.",
+            "Frigorífico Silva Ltda"
+        ],
+        "brands": [
+            "Seara",
+            "Bassi",
+            "Paty",
+            "Dona Benta",
+            "Vigor",
+            "Minerva"
+        ],
+        "economic_group": "Marfrig Global Foods",
+        "main_products": [
+            "Carne bovina",
+            "Carne suína",
+            "Produtos processados de carne",
+            "Exportação de proteínas animais",
+            "Produtos derivados de bovinos"
+        ],
+        "categories": [
+            "Proteína animal",
+            "Carne bovina",
+            "Carne suína",
+            "Alimentos processados",
+            "Exportação agroindustrial"
+        ],
+        "industry_segment": "Produção e processamento de carnes e proteínas animais"
+    },
+    {
+        "rank_2024": "8",
+        "rank_2023": "8",
+        "name": "Ultrapar Participações S.A.",
+        "headquarters": "SP",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "133.498,9",
+        "cnpj": "60.545.080/0001-23",
+        "website": "https://www.ultra.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/ultrapar-participacoes-s-a-/",
+        "description": "A Ultrapar Participações S.A. é uma holding brasileira que atua nos setores de distribuição de combustíveis, armazenagem de granéis líquidos, produção química e logística, por meio de suas controladas Ipiranga, Ultragaz, Oxiteno e Ultracargo.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Ipiranga Produtos de Petróleo S.A.",
+            "Ultragaz S.A.",
+            "Oxiteno S.A.",
+            "Extrafarma"
+        ],
+        "brands": [
+            "Ipiranga",
+            "Ultragaz",
+            "Oxiteno",
+            "Extrafarma"
+        ],
+        "economic_group": "Ultrapar",
+        "main_products": [
+            "Distribuição de combustíveis",
+            "Armazenagem de granéis líquidos",
+            "Produção química",
+            "Serviços de logística"
+        ],
+        "categories": [
+            "Energia e Combustíveis",
+            "Armazenagem e Logística",
+            "Química Industrial"
+        ],
+        "industry_segment": "Distribuição de combustíveis e produtos químicos"
+    },
+    {
+        "rank_2024": "9",
+        "rank_2023": "10",
+        "name": "Atacadão S.A.",
+        "headquarters": "SP",
+        "sector": "Comércio Varejista",
+        "revenue_brl_million": "115.636,0",
+        "cnpj": "47.508.198/0001-80",
+        "website": "https://www.atacadao.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/atacadao",
+        "description": "O Atacadão é uma das maiores redes atacadistas de autosserviço do Brasil, oferecendo uma ampla variedade de produtos para pequenos comerciantes, profissionais autônomos e consumidores finais.",
+        "parent_company": "Grupo Carrefour Brasil",
+        "subsidiaries": [
+            "Atacadão S.A."
+        ],
+        "brands": [
+            "Atacadão",
+            "Carrefour"
+        ],
+        "economic_group": "Grupo Carrefour",
+        "main_products": [
+            "Alimentos e bebidas",
+            "Produtos de limpeza",
+            "Higiene pessoal",
+            "Utensílios domésticos",
+            "Bebidas alcoólicas e não alcoólicas",
+            "Produtos para papelaria",
+            "Produtos para hortifrúti",
+            "Frios e laticínios",
+            "Carnes",
+            "Produtos perecíveis em geral"
+        ],
+        "categories": [
+            "Atacado e distribuição",
+            "Varejo alimentar",
+            "Produtos de consumo rápido (FMCG)",
+            "Autosserviço"
+        ],
+        "industry_segment": "Atacado de produtos alimentícios e de consumo para pequenos comerciantes e consumidores finais"
+    },
+    {
+        "rank_2024": "10",
+        "rank_2023": "9",
+        "name": "Cargill Alimentos Ltda.",
+        "headquarters": "SP",
+        "sector": "Agronegócio",
+        "revenue_brl_million": "109.188,2",
+        "cnpj": "06.035.000/0001-43",
+        "website": "https://www.cargill.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/cargill/",
+        "description": "A Cargill Alimentos Ltda. atua no setor agrícola e alimentício, fornecendo soluções em ingredientes para alimentos, produtos agrícolas e serviços relacionados, com foco em nutrição, segurança alimentar e sustentabilidade.",
+        "parent_company": "Cargill, Incorporated",
+        "subsidiaries": [],
+        "brands": [
+            "Nature's Heart",
+            "Aneto",
+            "Diamond Crystal",
+            "Finest Nutrition",
+            "Truvia",
+            "Cargill Meat Solutions"
+        ],
+        "economic_group": "Cargill",
+        "main_products": [
+            "ingredientes para alimentos",
+            "produtos agrícolas",
+            "serviços relacionados à agricultura",
+            "soluções em nutrição",
+            "serviços de segurança alimentar",
+            "soluções em sustentabilidade"
+        ],
+        "categories": [
+            "ingredientes alimentícios",
+            "produtos agrícolas",
+            "serviços agrícolas",
+            "nutrição e saúde",
+            "segurança alimentar",
+            "sustentabilidade ambiental"
+        ],
+        "industry_segment": "Agronegócio e Ingredientes para Alimentos"
+    },
+    {
+        "rank_2024": "11",
+        "rank_2023": "12",
+        "name": "Ambev S.A.",
+        "headquarters": "SP",
+        "sector": "Alimentos e Bebidas",
+        "revenue_brl_million": "89.452,7",
+        "cnpj": "07.526.557/0001-00",
+        "website": "https://www.ambev.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/ambev",
+        "description": "A Ambev S.A. é uma empresa líder no setor de bebidas na América Latina, dedicada à produção, distribuição e comercialização de cervejas, refrigerantes e outras bebidas não alcoólicas.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Ambev Comércio e Distribuição Ltda",
+            "Ambev S.A. (controladora)",
+            "Ambev Brasil",
+            "Ambev Paraguay S.A.",
+            "Cervejaria Petrópolis S.A. (parcialmente controlada)"
+        ],
+        "brands": [
+            "Skol",
+            "Brahma",
+            "Antarctica",
+            "Bohemia",
+            "Baden Baden",
+            "Stella Artois",
+            "Budweiser",
+            "Becks",
+            "Corona"
+        ],
+        "economic_group": "Anheuser-Busch InBev (AB InBev)",
+        "main_products": [
+            "cervejas",
+            "refrigerantes",
+            "bebidas não alcoólicas"
+        ],
+        "categories": [
+            "bebidas alcoólicas",
+            "bebidas não alcoólicas",
+            "produção de bebidas",
+            "distribuição de bebidas",
+            "comercialização de bebidas"
+        ],
+        "industry_segment": "bebidas alcoólicas e não alcoólicas"
+    },
+    {
+        "rank_2024": "12",
+        "rank_2023": "13",
+        "name": "Stellantis Automóveis Brasil Ltda.",
+        "headquarters": "MG",
+        "sector": "Veículos e Peças",
+        "revenue_brl_million": "79.182,4",
+        "cnpj": "07.378.240/0001-00",
+        "website": "https://www.stellantis.com/pt-br",
+        "linkedin_url": "https://www.linkedin.com/company/stellantis/",
+        "description": "Stellantis Automóveis Brasil Ltda. é uma empresa do setor automotivo que atua na fabricação, comercialização e distribuição de veículos, componentes e serviços automotivos, reunindo várias marcas importantes do grupo Stellantis no Brasil.",
+        "parent_company": "Stellantis N.V.",
+        "subsidiaries": [],
+        "brands": [
+            "Fiat",
+            "Jeep",
+            "Peugeot",
+            "Citroën",
+            "Ram",
+            "Dodge",
+            "Chrysler",
+            "Opel",
+            "Maserati"
+        ],
+        "economic_group": "Stellantis",
+        "main_products": [
+            "veículos automotores",
+            "componentes automotivos",
+            "serviços de manutenção e reparo automotivo",
+            "veículos comerciais leves",
+            "peças sobressalentes automotivas",
+            "acessórios automotivos"
+        ],
+        "categories": [
+            "Fabricação de veículos automotores",
+            "Comercialização de veículos",
+            "Distribuição de peças e componentes automotivos",
+            "Serviços automotivos",
+            "Veículos comerciais"
+        ],
+        "industry_segment": "Indústria Automotiva - Fabricação e Venda de Veículos e Componentes"
+    },
+    {
+        "rank_2024": "13",
+        "rank_2023": "15",
+        "name": "Braskem S.A.",
+        "headquarters": "BA",
+        "sector": "Química e Petroquímica",
+        "revenue_brl_million": "77.411,0",
+        "cnpj": "47.508.657/0001-21",
+        "website": "https://www.braskem.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/braskem",
+        "description": "Braskem S.A. é a maior produtora de resinas thermoplásticas nas Américas e líder mundial na produção de biopolímeros. Atua principalmente na produção e comercialização de petroquímicos, químicos e plásticos.",
+        "parent_company": "Petrobras (controladora majoritária histórica, porém participação tem sido reduzida)",
+        "subsidiaries": [
+            "Braskem America",
+            "Braskem Europe",
+            "Braskem Idesa (joint venture no México)",
+            "Braskem Química",
+            "Braskem S.A. - Unidades Industrial"
+        ],
+        "brands": [
+            "Braskem",
+            "I'm green™"
+        ],
+        "economic_group": "Grupo Odebrecht (historicamente, controladora do grupo Braskem)",
+        "main_products": [
+            "Resinas termoplásticas",
+            "Biopolímeros",
+            "Petroquímicos",
+            "Produtos químicos",
+            "Plásticos"
+        ],
+        "categories": [
+            "Materiais Plásticos",
+            "Petroquímicos",
+            "Biopolímeros",
+            "Químicos Industriais"
+        ],
+        "industry_segment": "Produção e comercialização de resinas termoplásticas e biopolímeros para a indústria petroquímica e química"
+    },
+    {
+        "rank_2024": "14",
+        "rank_2023": "18",
+        "name": "Sendas Distribuidora S.A.",
+        "headquarters": "RJ",
+        "sector": "Comércio Varejista",
+        "revenue_brl_million": "73.819,0",
+        "cnpj": "00.010.545/0001-40",
+        "website": "http://www.sendasdistribuidora.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/sendas-distribuidora-s-a-",
+        "description": "Sendas Distribuidora S.A. é uma empresa brasileira atuante no setor de distribuição de alimentos e bens de consumo, operando com redes de supermercados e atacado, focada em atender o mercado varejista.",
+        "parent_company": "Grupo Sendas",
+        "subsidiaries": [
+            "Sendas Atacado",
+            "Sendas Varejo"
+        ],
+        "brands": [
+            "Perini",
+            "Imperatriz",
+            "Melhor Preço"
+        ],
+        "economic_group": "Grupo Sendas",
+        "main_products": [
+            "alimentos embalados",
+            "produtos frescos",
+            "bebidas",
+            "produtos de limpeza",
+            "produtos de higiene pessoal",
+            "produtos de mercearia",
+            "atacado para supermercados",
+            "serviços de distribuição logística"
+        ],
+        "categories": [
+            "distribuição de alimentos",
+            "varejo alimentar",
+            "atacado alimentar",
+            "logística e distribuição"
+        ],
+        "industry_segment": "distribuição e comercialização de alimentos e bens de consumo para o varejo"
+    },
+    {
+        "rank_2024": "15",
+        "rank_2023": "11",
+        "name": "Bunge Alimentos S.A.",
+        "headquarters": "SC",
+        "sector": "Agronegócio",
+        "revenue_brl_million": "69.816,0",
+        "cnpj": "02.658.070/0001-70",
+        "website": "https://www.bunge.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/bunge/",
+        "description": "A Bunge Alimentos S.A. é uma empresa brasileira atuante no setor de agronegócio, focada na produção, comercialização e distribuição de alimentos, como óleos vegetais, margarinas, farinhas e ingredientes para alimentos.",
+        "parent_company": "Bunge Limited",
+        "subsidiaries": [
+            "Bunge Brasil S.A.",
+            "Bunge Fertilizantes S.A.",
+            "Bunge Alimentos S.A."
+        ],
+        "brands": [
+            "Soya",
+            "Mãe Terra",
+            "Salada",
+            "Primor"
+        ],
+        "economic_group": "Bunge",
+        "main_products": [
+            "óleos vegetais",
+            "margarinas",
+            "farinhas",
+            "ingredientes para alimentos"
+        ],
+        "categories": [
+            "Óleos e Gorduras Comestíveis",
+            "Produtos de Panificação e Ingredientes",
+            "Ingredientes Alimentícios",
+            "Agronegócio"
+        ],
+        "industry_segment": "Processamento e Comercialização de Produtos Alimentícios"
+    },
+    {
+        "rank_2024": "16",
+        "rank_2023": "17",
+        "name": "Gerdau S.A.",
+        "headquarters": "SP",
+        "sector": "Metalurgia e Siderurgia",
+        "revenue_brl_million": "67.026,7",
+        "cnpj": "33.041.545/0001-26",
+        "website": "https://www.gerdau.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/gerdau/",
+        "description": "Gerdau S.A. é uma empresa brasileira líder na produção de aço, atuando na fabricação e comercialização de aços longos e planos para os setores de construção civil, indústria e outros mercados.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Gerdau S.A. Brasil",
+            "Gerdau Ameristeel Corporation",
+            "Gerdau Açominas",
+            "Gerdau Long Steel North America",
+            "Gerdau Metal Center"
+        ],
+        "brands": [
+            "Gerdau",
+            "Gerdau Aços",
+            "Tuper",
+            "Wedderburn"
+        ],
+        "economic_group": "Grupo Gerdau",
+        "main_products": [
+            "aços longos",
+            "aços planos",
+            "serviços de comercialização de aço"
+        ],
+        "categories": [
+            "materiais de construção",
+            "indústria metalúrgica",
+            "mercado siderúrgico"
+        ],
+        "industry_segment": "produção e comercialização de aço para construção civil e indústria"
+    },
+    {
+        "rank_2024": "17",
+        "rank_2023": "16",
+        "name": "Arcelormittal Brasil S.A.",
+        "headquarters": "MG",
+        "sector": "Metalurgia e Siderurgia",
+        "revenue_brl_million": "66.550,6",
+        "cnpj": "61.308.695/0001-60",
+        "website": "https://corporativo.arcelormittal.com.br/",
+        "linkedin_url": "https://www.linkedin.com/company/arcelormittal/",
+        "description": "ArcelorMittal Brasil S.A. é uma empresa do setor siderúrgico que atua na produção e comercialização de aço e produtos derivados, atendendo diversos segmentos industriais no Brasil e exportando para o mercado global.",
+        "parent_company": "ArcelorMittal S.A.",
+        "subsidiaries": [
+            "ArcelorMittal Inox Brasil S.A.",
+            "ArcelorMittal Tubarão",
+            "ArcelorMittal Vega do Sul",
+            "ArcelorMittal Bio Energia"
+        ],
+        "brands": [
+            "ArcelorMittal"
+        ],
+        "economic_group": "ArcelorMittal Group",
+        "main_products": [
+            "aço bruto",
+            "chapas de aço laminadas a quente",
+            "chapas de aço laminadas a frio",
+            "tiras de aço",
+            "bobinas de aço",
+            "aços longos",
+            "fios de aço",
+            "tubos de aço",
+            "produtos siderúrgicos derivados",
+            "serviços de corte e dobra de aço"
+        ],
+        "categories": [
+            "metais e mineração",
+            "siderurgia",
+            "produção e processamento de aço",
+            "exportação de produtos siderúrgicos"
+        ],
+        "industry_segment": "siderurgia e metalurgia - produção e comercialização de aço e produtos derivados"
+    },
+    {
+        "rank_2024": "18",
+        "rank_2023": "19",
+        "name": "Copersucar S.A.",
+        "headquarters": "SP",
+        "sector": "Bioenergia",
+        "revenue_brl_million": "62.345,2",
+        "cnpj": "62.281.802/0001-77",
+        "website": "https://www.copersucar.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/copersucar/",
+        "description": "A Copersucar S.A. é uma líder no setor sucroalcooleiro brasileiro, especializada na comercialização, logística e gestão de riscos do açúcar e etanol produzidos por seus cooperados e parceiros.",
+        "parent_company": null,
+        "subsidiaries": [],
+        "brands": [
+            "Copersucar"
+        ],
+        "economic_group": "Copersucar",
+        "main_products": [
+            "Comercialização de açúcar",
+            "Comercialização de etanol",
+            "Serviços de logística para açúcar e etanol",
+            "Gestão de riscos para commodities sucroalcooleiras"
+        ],
+        "categories": [
+            "Commodities agrícolas",
+            "Logística e transporte",
+            "Gestão de riscos financeiros",
+            "Comércio internacional de produtos agroindustriais"
+        ],
+        "industry_segment": "Setor sucroalcooleiro - comercialização e logística de açúcar e etanol"
+    },
+    {
+        "rank_2024": "19",
+        "rank_2023": "34",
+        "name": "Mercadolivre.com Atividades de Internet Ltda.",
+        "headquarters": "SP",
+        "sector": "Comércio Varejista",
+        "revenue_brl_million": "61.494,5",
+        "cnpj": "07.574.255/0001-10",
+        "website": "https://www.mercadolivre.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/mercadolivre",
+        "description": "O MercadoLivre.com Atividades de Internet Ltda. é uma empresa que atua como plataforma de comércio eletrônico, oferecendo marketplace para compra e venda de produtos e serviços, além de soluções de pagamento digital e logística.",
+        "parent_company": "MercadoLibre, Inc.",
+        "subsidiaries": [
+            "MercadoPago",
+            "MercadoEnvios",
+            "MercadoShops",
+            "MercadoCredito",
+            "MercadoLibre Classifieds"
+        ],
+        "brands": [
+            "Mercado Livre",
+            "MercadoPago",
+            "MercadoEnvios",
+            "MercadoLibre Classifieds"
+        ],
+        "economic_group": "MercadoLibre Group",
+        "main_products": [
+            "Marketplace para compra e venda de produtos",
+            "Marketplace para compra e venda de serviços",
+            "Soluções de pagamento digital (MercadoPago)",
+            "Soluções de logística e entrega (MercadoEnvios)"
+        ],
+        "categories": [
+            "Comércio Eletrônico",
+            "Marketplace",
+            "Pagamento Digital",
+            "Logística e Distribuição"
+        ],
+        "industry_segment": "Plataforma de Comércio Eletrônico e Serviços Digitais"
+    },
+    {
+        "rank_2024": "20",
+        "rank_2023": "20",
+        "name": "BRF S.A.",
+        "headquarters": "SC",
+        "sector": "Alimentos e Bebidas",
+        "revenue_brl_million": "61.379,0",
+        "cnpj": "07.535.149/0001-21",
+        "website": "https://www.brf-global.com",
+        "linkedin_url": "https://www.linkedin.com/company/brf-s-a-",
+        "description": "A BRF S.A. é uma das maiores empresas de alimentos do mundo, atuando na produção e comercialização de carnes, alimentos processados e ingredientes para alimentação, atendendo mercados nacionais e internacionais.",
+        "parent_company": null,
+        "subsidiaries": [
+            "BRF Foods",
+            "Sadia",
+            "Perdigão",
+            "Qualy",
+            "Aurora Alimentos (parceria estratégica)"
+        ],
+        "brands": [
+            "Sadia",
+            "Perdigão",
+            "Qualy",
+            "Dánica",
+            "Paty",
+            "Batavo"
+        ],
+        "economic_group": "BRF S.A.",
+        "main_products": [
+            "Carnes de frango",
+            "Carnes suínas",
+            "Carnes bovinas",
+            "Produtos processados de carne",
+            "Embutidos",
+            "Produtos congelados",
+            "Alimentos prontos para consumo",
+            "Ingredientes alimentícios"
+        ],
+        "categories": [
+            "Proteínas animais",
+            "Alimentos processados",
+            "Produtos congelados",
+            "Ingredientes para alimentos",
+            "Alimentos para consumo doméstico",
+            "Alimentos para o mercado foodservice"
+        ],
+        "industry_segment": "Indústria de alimentos processados e carnes"
+    },
+    {
+        "rank_2024": "21",
+        "rank_2023": "22",
+        "name": "Telefônica Brasil S.A.",
+        "headquarters": "SP",
+        "sector": "TI & Telecom",
+        "revenue_brl_million": "55.845,0",
+        "cnpj": "02.558.157/0001-62",
+        "website": "https://www.telefonica.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/telefonica-brasil/",
+        "description": "A Telefônica Brasil S.A., operando sob a marca Vivo, é uma das maiores empresas de telecomunicações do Brasil, oferecendo serviços de telefonia móvel, banda larga, TV por assinatura e soluções digitais.",
+        "parent_company": "Telefónica S.A.",
+        "subsidiaries": [
+            "Vivo S.A.",
+            "Telefônica Data S.A.",
+            "Telefônica Serviços de Informática S.A."
+        ],
+        "brands": [
+            "Vivo"
+        ],
+        "economic_group": "Grupo Telefónica",
+        "main_products": [
+            "telefonia móvel",
+            "banda larga",
+            "TV por assinatura",
+            "soluções digitais"
+        ],
+        "categories": [
+            "Telecomunicações",
+            "Serviços de Internet",
+            "Serviços de TV por Assinatura",
+            "Soluções Digitais e Tecnológicas"
+        ],
+        "industry_segment": "Serviços de Telecomunicações e Multimídia"
+    },
+    {
+        "rank_2024": "22",
+        "rank_2023": "21",
+        "name": "Shell Brasil Petróleo Ltda.",
+        "headquarters": "RJ",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "54.977,0",
+        "cnpj": "57.410.012/0001-04",
+        "website": "https://www.shell.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/shell/",
+        "description": "Shell Brasil Petróleo Ltda. atua na exploração, produção, refino, distribuição e comercialização de petróleo, gás natural e seus derivados, além de investir em energia renovável e soluções energéticas inovadoras.",
+        "parent_company": "Royal Dutch Shell plc",
+        "subsidiaries": [],
+        "brands": [
+            "Shell"
+        ],
+        "economic_group": "Royal Dutch Shell",
+        "main_products": [
+            "exploração de petróleo",
+            "produção de petróleo",
+            "refino de petróleo",
+            "distribuição de combustíveis",
+            "comercialização de petróleo e derivados",
+            "exploração e comercialização de gás natural",
+            "investimentos em energia renovável",
+            "soluções energéticas inovadoras"
+        ],
+        "categories": [
+            "exploração e produção de petróleo e gás",
+            "refino e distribuição de combustíveis",
+            "comercialização de derivados de petróleo",
+            "energia renovável",
+            "tecnologia e inovação energética"
+        ],
+        "industry_segment": "energia e petróleo e gás"
+    },
+    {
+        "rank_2024": "23",
+        "rank_2023": "14",
+        "name": "Cofco International Brasil S.A.",
+        "headquarters": "SP",
+        "sector": "Agronegócio",
+        "revenue_brl_million": "53.327,2",
+        "cnpj": "15.726.027/0001-17",
+        "website": "https://www.cofcointernational.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/cofco-international/",
+        "description": "A Cofco International Brasil S.A. é uma empresa que atua no setor agrícola, focada em originação, processamento e comercialização de commodities agrícolas, oferecendo soluções para produtores rurais e clientes no mercado interno e externo.",
+        "parent_company": "COFCO Corporation",
+        "subsidiaries": [],
+        "brands": [],
+        "economic_group": "COFCO Group",
+        "main_products": [
+            "soja",
+            "milho",
+            "trigo",
+            "commodities agrícolas processadas",
+            "originação de grãos",
+            "processamento de grãos",
+            "comercialização de grãos",
+            "logística agrícola",
+            "soluções para produtores rurais"
+        ],
+        "categories": [
+            "Agricultura",
+            "Commodities Agrícolas",
+            "Originação e Comercialização de Grãos",
+            "Processamento Agroindustrial",
+            "Logística e Distribuição Agro",
+            "Serviços para Agricultura"
+        ],
+        "industry_segment": "Commodities Agrícolas e Agroindústria"
+    },
+    {
+        "rank_2024": "24",
+        "rank_2023": "23",
+        "name": "Rede D' Or São Luiz S.A.",
+        "headquarters": "SP",
+        "sector": "Serviços Médicos",
+        "revenue_brl_million": "50.571,3",
+        "cnpj": "08.960.443/0001-04",
+        "website": "https://www.rededorsaoluiz.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/rede-d-or-sao-luiz/",
+        "description": "Rede D'Or São Luiz S.A. é a maior rede independente de hospitais privados no Brasil, oferecendo serviços hospitalares de alta complexidade em diversas especialidades médicas.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Fleury",
+            "Prontmed",
+            "FUNDACAO Fospod",
+            "Hospital IFC",
+            "Hospital Quinta D'Or",
+            "Hospital Brasil"
+        ],
+        "brands": [
+            "Rede D'Or São Luiz",
+            "Fleury"
+        ],
+        "economic_group": "Rede D’Or São Luiz",
+        "main_products": [
+            "Serviços hospitalares de alta complexidade",
+            "Internação hospitalar",
+            "Cirurgias especializadas",
+            "Atendimento emergencial",
+            "Cuidados intensivos",
+            "Diagnóstico por imagem",
+            "Exames laboratoriais",
+            "Tratamentos oncológicos",
+            "Terapias especializadas",
+            "Consultas médicas em diversas especialidades"
+        ],
+        "categories": [
+            "Serviços Hospitalares",
+            "Saúde e Assistência Médica",
+            "Hospitais Privados",
+            "Atendimento Médico Especializado",
+            "Cuidados de Saúde de Alta Complexidade"
+        ],
+        "industry_segment": "Hospitais e Serviços de Saúde Privados"
+    },
+    {
+        "rank_2024": "25",
+        "rank_2023": "27",
+        "name": "Neoenergia S.A.",
+        "headquarters": "RJ",
+        "sector": "Energia Elétrica",
+        "revenue_brl_million": "48.993,0",
+        "cnpj": "06.535.479/0001-23",
+        "website": "https://www.neoenergia.com",
+        "linkedin_url": "https://www.linkedin.com/company/neoenergia/",
+        "description": "A Neoenergia S.A. é uma das maiores companhias do setor elétrico brasileiro, atuando na geração, transmissão, distribuição e comercialização de energia elétrica.",
+        "parent_company": "Iberdrola, S.A.",
+        "subsidiaries": [
+            "Celg-Distribuição S.A.",
+            "Chesf - Companhia Hidro Elétrica do São Francisco",
+            "Coelba - Companhia de Eletricidade da Bahia",
+            "Cosern - Companhia Energética do Rio Grande do Norte"
+        ],
+        "brands": [
+            "Neoenergia",
+            "Celg",
+            "Chesf",
+            "Coelba",
+            "Cosern"
+        ],
+        "economic_group": "Iberdrola Group",
+        "main_products": [
+            "Geração de energia elétrica",
+            "Transmissão de energia elétrica",
+            "Distribuição de energia elétrica",
+            "Comercialização de energia elétrica"
+        ],
+        "categories": [
+            "Geração de Energia",
+            "Transmissão de Energia",
+            "Distribuição de Energia",
+            "Comercialização de Energia"
+        ],
+        "industry_segment": "Serviços de energia elétrica integrada"
+    },
+    {
+        "rank_2024": "26",
+        "rank_2023": "24",
+        "name": "Claro Telecom Participações S.A.",
+        "headquarters": "SP",
+        "sector": "TI & Telecom",
+        "revenue_brl_million": "48.914,9",
+        "cnpj": "07.910.454/0001-89",
+        "website": "https://www.claro.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/claro",
+        "description": "Claro Telecom Participações S.A. é uma empresa brasileira de telecomunicações que oferece serviços de telefonia móvel, internet banda larga e TV por assinatura, sendo uma das maiores operadoras do país.",
+        "parent_company": "América Móvil S.A.B. de C.V.",
+        "subsidiaries": [
+            "Claro S.A.",
+            "Net Serviços de Comunicação S.A.",
+            "Embratel Participações S.A.",
+            "Claro Brasil Serviços de Telecomunicações Ltda."
+        ],
+        "brands": [
+            "Claro",
+            "Net",
+            "Embratel"
+        ],
+        "economic_group": "América Móvil",
+        "main_products": [
+            "Telefonia móvel",
+            "Internet banda larga",
+            "TV por assinatura"
+        ],
+        "categories": [
+            "Serviços de Telecomunicações",
+            "Telefonia Móvel",
+            "Internet Banda Larga",
+            "TV por Assinatura"
+        ],
+        "industry_segment": "Telecomunicações - Serviços de Comunicação e Média"
+    },
+    {
+        "rank_2024": "27",
+        "rank_2023": "32",
+        "name": "Suzano S.A.",
+        "headquarters": "BA",
+        "sector": "Papel e Celulose",
+        "revenue_brl_million": "47.403,3",
+        "cnpj": "76.535.764/0001-81",
+        "website": "https://www.suzano.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/suzanopaper/",
+        "description": "A Suzano S.A. é uma empresa brasileira líder na produção de celulose de fibra curta, papel, soluções renováveis e derivados de madeira, destacando-se como uma das maiores produtoras mundiais de celulose.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Fibria Celulose S.A.",
+            "Suzano Papel e Celulose S.A.",
+            "Fibria Overseas Limited"
+        ],
+        "brands": [
+            "Suzano",
+            "Fibria"
+        ],
+        "economic_group": "Suzano",
+        "main_products": [
+            "Celulose de fibra curta",
+            "Papel",
+            "Soluções renováveis",
+            "Derivados de madeira"
+        ],
+        "categories": [
+            "Celulose e Papel",
+            "Produtos Florestais",
+            "Biomassa e Energia Renovável",
+            "Materiais Sustentáveis"
+        ],
+        "industry_segment": "Produção de Celulose, Papel e Produtos Florestais Renováveis"
+    },
+    {
+        "rank_2024": "28",
+        "rank_2023": "28",
+        "name": "Refinaria de Mataripe S.A.",
+        "headquarters": "BA",
+        "sector": "Petróleo e Gás",
+        "revenue_brl_million": "45.590,0",
+        "cnpj": "29.294.642/0001-76",
+        "website": "http://www.refinariamatahipe.com.br",
+        "linkedin_url": null,
+        "description": "A Refinaria de Mataripe S.A. é uma empresa brasileira que atua no setor de refinamento de petróleo, produzindo derivados como óleo combustível, gasolina, entre outros, contribuindo para o fornecimento de energia e insumos para a indústria.",
+        "parent_company": "Petrobras",
+        "subsidiaries": [],
+        "brands": [],
+        "economic_group": "Petrobras",
+        "main_products": [
+            "óleo combustível",
+            "gasolina",
+            "diesel",
+            "querosene",
+            "asfalto",
+            "GLP (gás liquefeito de petróleo)",
+            "nafta",
+            "resíduos de petróleo"
+        ],
+        "categories": [
+            "Refino de petróleo",
+            "Produção de combustíveis",
+            "Produção de derivados de petróleo",
+            "Fornecimento de energia",
+            "Insumos para a indústria petroquímica"
+        ],
+        "industry_segment": "Refino e processamento de petróleo"
+    },
+    {
+        "rank_2024": "29",
+        "rank_2023": "31",
+        "name": "Equatorial S.A.",
+        "headquarters": "MA",
+        "sector": "Energia Elétrica",
+        "revenue_brl_million": "45.366,7",
+        "cnpj": "11.452.773/0001-54",
+        "website": "https://www.equatorialenergia.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/equatorial-energia/",
+        "description": "Equatorial Energia S.A. é uma holding que atua no setor elétrico brasileiro, envolvendo geração, transmissão, distribuição e comercialização de energia, focada em operações eficientes e sustentáveis.",
+        "parent_company": null,
+        "subsidiaries": [
+            "Equatorial Maranhão",
+            "Equatorial Pará",
+            "Equatorial Alagoas",
+            "Equatorial Piauí",
+            "Equatorial Tocantins",
+            "Equatorial Energia Maranhão",
+            "Neoenergia (participação através de Equatorial, em alguns casos)"
+        ],
+        "brands": [
+            "Equatorial Energia",
+            "CEPISA",
+            "CELPA",
+            "CELAL",
+            "CEMAR",
+            "ELETROPAULO"
+        ],
+        "economic_group": "Grupo Equatorial",
+        "main_products": [
+            "Geração de energia elétrica",
+            "Transmissão de energia elétrica",
+            "Distribuição de energia elétrica",
+            "Comercialização de energia elétrica"
+        ],
+        "categories": [
+            "Geração de Energia",
+            "Transmissão de Energia",
+            "Distribuição de Energia",
+            "Comercialização de Energia",
+            "Energia Sustentável"
+        ],
+        "industry_segment": "Setor elétrico brasileiro - serviços integrados de energia"
+    },
+    {
+        "rank_2024": "30",
+        "rank_2023": "30",
+        "name": "Enel Brasil S.A.",
+        "headquarters": "RJ",
+        "sector": "Energia Elétrica",
+        "revenue_brl_million": "44.095,3",
+        "cnpj": "02.916.537/0001-94",
+        "website": "https://www.enel.com.br",
+        "linkedin_url": "https://www.linkedin.com/company/enel-brasil/",
+        "description": "Enel Brasil S.A. é uma empresa que atua no setor de energia elétrica, englobando geração, distribuição e comercialização de eletricidade no Brasil, sendo parte do grupo multinacional Enel, fornecendo soluções sustentáveis e inovadoras para o mercado energético.",
+        "parent_company": "Enel S.p.A.",
+        "subsidiaries": [
+            "Enel Distribuição São Paulo",
+            "Enel Distribuição Rio",
+            "Enel Green Power Brasil",
+            "Enel Geração Brasil",
+            "Enel X Brasil"
+        ],
+        "brands": [
+            "Enel",
+            "Enel Green Power",
+            "Enel X"
+        ],
+        "economic_group": "Grupo Enel",
+        "main_products": [
+            "Geração de energia elétrica",
+            "Distribuição de energia elétrica",
+            "Comercialização de eletricidade",
+            "Soluções de energia sustentável",
+            "Serviços de eficiência energética",
+            "Consultoria em energia renovável"
+        ],
+        "categories": [
+            "Geração de Energia",
+            "Distribuição de Energia",
+            "Comercialização de Energia",
+            "Energia Renovável",
+            "Serviços de Energia",
+            "Soluções Sustentáveis"
+        ],
+        "industry_segment": "Setor de Energia Elétrica - Geração, Distribuição e Comercialização"
+    }
+]
